@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'robotomedium';
+    src: url('../fonts/roboto-medium_0-webfont.eot');
+    src: url('../fonts/roboto-medium_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-medium_0-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-medium_0-webfont.woff') format('woff'),
+         url('../fonts/roboto-medium_0-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-medium_0-webfont.svg#robotomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'robotoitalic';
+    src: url('../fonts/roboto-italic_0-webfont.eot');
+    src: url('../fonts/roboto-italic_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-italic_0-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-italic_0-webfont.woff') format('woff'),
+         url('../fonts/roboto-italic_0-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-italic_0-webfont.svg#robotoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url('../fonts/roboto-regular_0-webfont.eot');
+    src: url('../fonts/roboto-regular_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-regular_0-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-regular_0-webfont.woff') format('woff'),
+         url('../fonts/roboto-regular_0-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-regular_0-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

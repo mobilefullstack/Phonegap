@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Doctor Patient</title>
+<!-- Bootstrap core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script> BASE_URL="http://35.162.172.171/doctorapp/api.php";</script>
+    <script src="js/edit-appoint.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <!--<script src="js/jquery.mmenu.min.all.js"></script>
+     <script src="js/jquery.mobile-1.1.1.js"></script>
+    <script src="js/jquery-1.6.4.min.js"></script>-->
+    <script src="cordova.js"></script>
+<script>
+document.createElement("article");
+document.createElement("aside");
+document.createElement("audio");
+document.createElement("canvas");
+document.createElement("command");
+document.createElement("datalist");
+document.createElement("details");
+document.createElement("embed");
+document.createElement("figcaption");
+document.createElement("figure");
+document.createElement("footer");
+document.createElement("header");
+document.createElement("hgroup");
+document.createElement("keygen");
+document.createElement("mark");
+document.createElement("meter");
+document.createElement("nav");
+document.createElement("output");
+document.createElement("progress");
+document.createElement("rp");
+document.createElement("rt");
+document.createElement("ruby");
+document.createElement("section");
+document.createElement("source");
+document.createElement("summary");
+document.createElement("time");
+document.createElement("video");
+</script>
+</head>
+<body onload=init()>
+<!-- sign-up-Page -->
+	<div class="main-doctor">
+    	<div class="main-header">
+        	<div class="container">
+        		<div class="header-bg"><h2>Update Appointment</h2></div>
+            </div>
+        </div>
+        <div class="loading-page" style="display:none">
+            <img src="images/369.GIF"/>
+        </div>
+        <div class="container">   
+        <div class="appoint-make">
+         	<div class="make-appointment">
+            	<div class="make-appointment-row">
+                	<label>Patient First Name</label>
+                    <input name="" type="text" placeholder="" id="fname" readonly>
+                </div>
+                <div class="make-appointment-row">
+                	<label>Patient Last Name</label>
+                    <input name="" type="text" placeholder="" id="lname" readonly>
+                </div>
+                <div class="make-appointment-row">
+                	<label>Contact Number</label>
+                    <input name="" type="text" placeholder="" id="phone_no" readonly>
+                </div>
+                <div class="make-appointment-row" id="main_add">
+                	<label>House Address</label>
+                    <input name="" type="text" placeholder="" id="st" readonly>
+                    <input name="" type="text" placeholder="" id="suburb" readonly>
+                    <input name="" type="text" placeholder="" id="state" readonly>
+                    <input name="" type="text" placeholder="" id="pincode" readonly>
+                </div>
+            </div>
+            <div class="diffrent-location">
+            	<span class="or">Or</span>
+
+                <div class="different-finder">
+                	<div class="diffrent-finder-row">
+                		<label>Choose Another Location</label>
+                        <div class="main-box-check">
+                            <span class="checkbox-img"><!--<img src="/images/check-box.png"> -->
+                                <input type="checkbox" class="checkname" name="b" id="temp_add"  value="" onchange="show_temp_address(this.id)">
+                                <label class="checklabel"></label>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="make-appointment-row" id="temp_div" style="display:none">
+                        <label>House Address</label>
+                        <input name="" type="text" placeholder="Street No" id="st1">
+                        <input name="" type="text" placeholder="Street Name" id="st_name">
+                        <select id="suburb1"><option>Select Suburb</option><option>Alexander Heights</option><option>Alfred Cove</option><option>Applecross</option><option>Ardross</option><option>Armadale</option><option>Ascot</option><option>Ashfield</option><option>Attadale</option><option>Atwell</option><option>Balcatta</option><option>Balga</option><option>Ballajura</option><option>Bassendean</option><option>Bateman</option><option>Bayswater</option><option>Beaconsfield</option><option>Beckenham</option><option>Bedford</option><option>Bedfordale</option><option>Beechboro</option><option>Beechina</option><option>Beeliar</option><option>Beldon</option><option>Bellevue</option><option>Belmont</option><option>Bentley</option><option>Bertram</option><option>Bibra Lake</option><option>Bickley</option><option>Bicton</option><option>Booragoon</option><option>Boya</option><option>Brentwood</option><option>Brigadoon</option><option>Brookdale</option><option>Bull Creek</option><option>Bullsbrook</option><option>Burswood</option><option>Butler</option><option>Byford</option><option>Calista</option><option>Canning Vale</option><option>Cannington</option><option>Cardup</option><option>Carine</option><option>Carlisle</option><option>Carmel</option><option>Carramar</option><option>Casaurina</option><option>Caversham</option><option>Champion Lakes</option><option>Churchlands</option><option>City Beach</option><option>Claremont</option><option>Clarkson</option><option>Cloverdale</option><option>Como</option><option>Connolly</option><option>Coogee</option><option>Coolbellup</option><option>Coolbinia</option><option>Cooloongup</option><option>Cottesloe</option><option>Craigie</option><option>Crawley</option><option>Currambine</option><option>Daglish</option><option>Dalkeith</option><option>Darch</option><option>Darling Downs</option><option>Darlington</option><option>Dianella</option><option>Doubleview</option><option>Duncraig</option><option>East Cannington</option><option>East Fremantle</option><option>East Perth</option><option>East Victoria Park</option><option>Eden Hill</option><option>Edgewater</option><option>Ellenbrook</option><option>Embleton</option><option>Ferndale</option><option>Floreat</option><option>Forrestdale</option><option>Forrestfield</option><option>Fremantle</option><option>Girrawheen</option><option>Glen Forrest</option><option>Glendalough</option><option>Gooseberry Hill</option><option>Gosnells</option><option>Greenmount</option><option>Greenwood</option><option>Guildford</option><option>Gwelup</option><option>Hamersley</option><option>Hamilton Hill</option><option>Hazelmere</option><option>Heathridge</option><option>Helena Valley</option><option>Henley Brook</option><option>High Wycombe</option><option>Highgate</option><option>Hillarys</option><option>Hillman</option><option>Hilton</option><option>Hocking</option><option>Hovea</option><option>Huntingdale</option><option>Iluka</option><option>Inglewood</option><option>Innaloo</option><option>Jandakot</option><option>Jolimont</option><option>Joondalup</option><option>Joondanna</option><option>Kalamunda</option><option>Kallaroo</option><option>Karawara</option><option>Kardinya</option><option>Karrinyup</option><option>Kelmscott</option><option>Kensington</option><option>Kenwick</option><option>Kewdale</option><option>Kiara</option><option>Kingsley</option><option>Kinross</option><option>Koondoola</option><option>Koongamia</option><option>Landsdale</option><option>Langford</option><option>Lathlain</option><option>Leda</option><option>Leederville</option><option>Leeming</option><option>Lesmurdie</option><option>Lockridge</option><option>Lynwood</option><option>Maddington</option><option>Madeley</option><option>Mahogany Creek</option><option>Maida Vale</option><option>Manning</option><option>Marangaroo</option><option>Mariginup</option><option>Marmion</option><option>Martin</option><option>Maylands</option><option>Medina</option><option>Melville</option><option>Menora</option><option>Merriwa</option><option>Middle Swan</option><option>Midland</option><option>Midvale</option><option>Millendon</option><option>Mindarie</option><option>Mirrabooka</option><option>Morley</option><option>Mosman Park</option><option>Mount Claremont</option><option>Mount Hawthorn</option><option>Mount Lawley</option><option>Mount Nasura</option><option>Mount Pleasant</option><option>Mt Helena</option><option>Mt Richon</option><option>Mullaloo</option><option>Mundaring</option><option>Mundijong</option><option>Munster</option><option>Murdoch</option><option>Myaree</option><option>Nedlands</option><option>Neerabup</option><option>Nollamara</option><option>Noranda</option><option>North Beach</option><option>North Fremantle</option><option>North Lake</option><option>North Perth</option><option>Northbridge</option><option>Oakford</option><option>Ocean Reef</option><option>Oldsbury</option><option>Orelia</option><option>Osborne Park</option><option>Padbury</option><option>Palmyra</option><option>Parkwood</option><option>Parmelia</option><option>Pearsall</option><option>Peppermint Grove</option><option>Perth</option><option>Pickering Brook</option><option>Piesse Brook</option><option>Port Kennedy</option><option>Queens Park</option><option>Quinns Rocks</option><option>Redcliffe</option><option>Ridgewood</option><option>Riverton</option><option>Rivervale</option><option>Rockingham</option><option>Roleystone</option><option>Rossmoyne</option><option>Safety Bay</option><option>Salter Point</option><option>Samson</option><option>Scarborough</option><option>Secret Harbour</option><option>Seville Grove</option><option>Shelley</option><option>Shenton Park</option><option>Shoalwater</option><option>Sinagra</option><option>Singleton</option><option>Sorrento</option><option>South Fremantle</option><option>South Guildford</option><option>South Lake</option><option>South Perth</option><option>Southern River</option><option>Spearwood</option><option>St James</option><option>Stirling</option><option>Straffon</option><option>Subiaco</option><option>Success</option><option>Swan View</option><option>Swanbourne</option><option>Tapping</option><option>The Vines</option><option>Thornlie</option><option>Trigg</option><option>Tuart Hill</option><option>Two Rocks</option><option>Upper Swan</option><option>Victoria Park</option><option>Viveash</option><option>Waikiki</option><option>Walliston</option><option>Wandi</option><option>Wanneroo</option><option>Warnbro</option><option>Warwick</option><option>Waterford</option><option>Watermans Bay</option><option>Wattle Grove</option><option>Wattleup</option><option>Wellard</option><option>Wembley</option><option>Wembley Downs</option><option>West Leederville</option><option>West Perth</option><option>West Swan</option><option>Westfield</option><option>Westminster</option><option>Wexcombe</option><option>White Gum Valley</option><option>Willagee</option><option>Willetton</option><option>Wilson</option><option>Winthrop</option><option>Woodbridge</option><option>Woodlands</option><option>Woodvale</option><option>Yanchep</option><option>Yangebup</option><option>Yokine</option></select>
+                        <select id="state2" onchange="enable_postcode()"><option>Select State</option><option>ACT</option><option>NSW</option><option>NT</option><option>QLD</option><option>SA</option><option>TAS</option><option>VIC</option><option>WA</option></select>
+                        <input name="" type="text" placeholder="Pincode" id="pincode1">
+                    </div>
+                    <div class="diffrent-finder-row">
+                    	<label>Quick description of how you feel or your<br/><br/>
+condition for the doctor</label>
+                      <textarea rows="" cols="" name="" placeholder="" id="quick_desc"></textarea>
+                    </div>
+                    
+                    
+                    <div class="diffrent-finder-row">
+                    	<label>Request specific skills or items(optional)<br/><br/>
+i.e. can speak Mandarin</label>
+                        <textarea rows="" cols="" name="" placeholder="" id="skills"></textarea>
+                    </div>
+
+                    
+                </div>
+            </div>
+
+
+                    
+                    <div class="login-row-border">
+                      	<input type="button" value="Update Appointment" name="" onclick=update_patient_appointment()>
+                        <input type="button" value="Cancel" name="" onclick="cancel()">
+             
+                        </div>
+                    
+                    <div class="copyright">
+<p>Have the services of your local doctor in the comforts of your own home.</p>
+<p><strong>For emergency please call 000 to request an ambulance</strong></p>
+</div>
+                    
+                    </div>
+        </div>
+    </div>
+<!-- end-signup --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+
+</body>
+</html>

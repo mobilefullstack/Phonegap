@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; script-src 'self' https://ajax.googleapis.com 'unsafe-inline' 'unsafe-eval'"/>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Doctor Patient</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap-select.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/responsive.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <script> BASE_URL="http://35.162.172.171/doctorapp/api.php";</script>
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/mycode.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/calendar.js"></script>
+
+    <script src="cordova.js"></script>
+    <script>
+document.createElement("article");
+document.createElement("aside");
+document.createElement("audio");
+document.createElement("canvas");
+document.createElement("datalist");
+document.createElement("command");
+document.createElement("details");
+document.createElement("embed");
+document.createElement("figcaption");
+document.createElement("figure");
+document.createElement("footer");
+document.createElement("header");
+document.createElement("hgroup");
+document.createElement("keygen");
+document.createElement("mark");
+document.createElement("meter");
+document.createElement("nav");
+document.createElement("output");
+document.createElement("progress");
+document.createElement("rp");
+document.createElement("rt");
+document.createElement("ruby");
+document.createElement("section");
+document.createElement("source");
+document.createElement("summary");
+document.createElement("time");
+document.createElement("video");
+</script>
+</head>
+<body onload="init()">
+<!-- sign-up-Page -->
+<div class="main-doctor">
+    <div class="global-sign">
+        <div class="container">
+            <div class="sign-up">
+                <div class="container-fluid">
+                    <div class="top-logo">
+                        <a href="#"><img src="images/logo.png"></a>
+                    <span>Have the convenience of a doctor<br>
+visit you</span>
+                    </div>
+                    <div class="loading-page" style="display:none">
+                        <img src="images/369.GIF"/>
+                    </div>
+                    <div class="doctor-login-section">
+                        <h1>Patient Login</h1>
+                        <div class="login-section">
+                            <div class="login-row">
+
+                                <input  id="username" type="text" placeholder="Username" >
+                                <input  id="password" type="password" placeholder="Password" ><br/><br/>
+                                <input  type="button" value="Patient Login" onclick=login()>
+                                <input  type="button" value="SIGNUP" onclick=signup()>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- end-signup -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script></div>
+
+<script src="js/jquery.html5-placeholder-shim.js"></script>
+<script>
+equalheight = function(container){
+
+var currentTallest = 0,
+     currentRowStart = 0,
+     rowDivs = new Array(),
+     $el,
+     topPosition = 0;
+ jQuery(container).each(function() {
+
+   $el = $(this);
+   jQuery($el).height('auto')
+   topPostion = $el.position().top;
+
+   if (currentRowStart != topPostion) {
+     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+       rowDivs[currentDiv].height(currentTallest);
+     }
+     rowDivs.length = 0; // empty the array
+     currentRowStart = topPostion;
+     currentTallest = $el.height();
+     rowDivs.push($el);
+   } else {
+     rowDivs.push($el);
+     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+  }
+   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+     rowDivs[currentDiv].height(currentTallest);
+   }
+ });
+}
+
+jQuery(window).load(function() {
+  equalheight('.global-sign, html' );
+});
+
+
+jQuery(window).resize(function(){
+  equalheight('.global-sign, html' );
+});
+
+</script>
+</body>
+</html>

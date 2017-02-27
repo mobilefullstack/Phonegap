@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=0.4">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Doctor Patient</title>
+<!-- Bootstrap core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="js/doctor-profile.js"></script>
+    <script src="js/jquery.min.js"></script>
+ <!--   <script src="js/jquery.mmenu.min.all.js"></script>
+     <script src="js/jquery.mobile-1.1.1.js"></script>
+    <script src="js/jquery-1.6.4.min.js"></script>
+    <script src="http://openlayers.org/api/2.10/OpenLayers.js" type="text/javascript">-->
+    <script src="cordova-2.7.0.js"></script>
+<script>
+document.createElement("article");
+document.createElement("aside");
+document.createElement("audio");
+document.createElement("canvas");
+document.createElement("command");
+document.createElement("datalist");
+document.createElement("details");
+document.createElement("embed");
+document.createElement("figcaption");
+document.createElement("figure");
+document.createElement("footer");
+document.createElement("header");
+document.createElement("hgroup");
+document.createElement("keygen");
+document.createElement("mark");
+document.createElement("meter");
+document.createElement("nav");
+document.createElement("output");
+document.createElement("progress");
+document.createElement("rp");
+document.createElement("rt");
+document.createElement("ruby");
+document.createElement("section");
+document.createElement("source");
+document.createElement("summary");
+document.createElement("time");
+document.createElement("video");
+</script>
+</head>
+<body onload="init();">
+<!-- sign-up-Page -->
+	<div class="main-doctor">
+    	<div class="main-header">
+        	<div class="container">
+        		<div class="header-bg"><h2>My Details</h2></div>
+            </div>
+        </div>
+        <div class="loading-page" style="display:none">
+            <img src="images/369.GIF"/>
+        </div>
+        <div class="container">
+       		 <div class="profile-section">
+             <div class="top-profile">
+        		<div class="left-profile">
+            	<img src="images/doctor.jpg" alt="doctor">	
+            </div>
+           	    <div class="right-part-doctor">
+            	<h3>Dr. <cust id="dname"></cust></h3>
+                <span>GP, Family Health</span>
+            </div>
+            </div>
+            <div class="about-me">
+            	<span class="detail-heading">About Me</span>
+               
+<p>
+<textarea placeholder="Lorem Ipsum is simply dummy text of the
+printing and typesetting industry. Lorem
+Ipsum has been the industry's standard 
+dummy text ever since the 1500s." rows="" cols="" name="" id="about_me"></textarea>
+</p>
+<span class="indentify-location">Identity Location</span>
+<div class="login-section">
+                    	<div class="login-row">
+                        	<input type="text" placeholder="Perth, West Australia" name="" id="identity_location" />
+                           </div><br/>
+                    </div>
+<input name="button" type="button" value="Save" onclick="mydata()">
+            </div>
+            
+        </div>
+        
+        <div class="detail-part">
+            <div class="row-detail">
+            <div id="left-colon">
+  		HomeGP Doctor Since
+  	</div>
+  	        <div id="right-colon">
+                <span id="doctor_since"></span>
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		My Qualifications
+  	</div>
+  	        <div id="right-colon">
+                <span id="qualification"></span>
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		Registration with AHPRA
+  	</div>
+  	        <div id="right-colon">
+               Confirmed
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		Police Clearence
+  	</div>
+  	        <div id="right-colon">
+                Confirmed
+  	</div>
+            </div>
+            <div class="job-content">
+            <span class="detail-heading">My Jobs and Ratings</span>
+             <div class="row-detail">
+            <div id="left-colon">
+  		Appointments Completed
+  	</div>
+  	        <div id="right-colon">
+  		37
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		Feedback Given
+  	</div>
+  	        <div id="right-colon">
+  		37
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		Feedback Received
+  	</div>
+  	        <div id="right-colon">
+  		34
+  	</div>
+            </div>
+            <div class="row-detail">
+            <div id="left-colon">
+  		Feedback Rating
+  	</div>
+  	        <div id="right-colon">
+  		<img src="images/start-rating.png" alt="start-rating">
+        <img src="images/start-rating.png" alt="start-rating">
+        <img src="images/start-rating.png" alt="start-rating">
+        <img src="images/start-rating.png" alt="start-rating">
+        <img src="images/not-star.png" alt="start-rating">
+  	</div>
+            </div>
+            </div>
+            
+            </div>
+            <div class="patient-comment">
+            	<span class="detail-heading">Patient Comments</span>
+                <div class="comment-box">
+                <div class="main-comment">
+                	<span class="date-comment">27 Nov 2015</span>
+                    <div class="commenter">
+                    	<span>Lisa, </span>
+                        Clovendole WA
+                    </div>
+                    <p>Dr. Adam Smith is very caring and resposible.<br>
+He found problem very quikly.</p>
+                 </div>
+                 <div class="main-comment">
+                	<span class="date-comment">27 Nov 2015</span>
+                    <div class="commenter">
+                    	<span>Lisa, </span>
+                        Clovendole WA
+                    </div>
+                    <p>Dr. Adam Smith is very caring and resposible.<br>
+He found problem very quikly.</p>
+                 </div>
+                </div>
+                <input type="button" name="Dashboard" value="Dashboard" name="">
+            </div>
+        </div>
+    </div>
+<!-- end-signup -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>

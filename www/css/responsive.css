@@ -1,0 +1,4537 @@
+@media only screen and (max-width:979px) {
+	.apppointment .slider-date select {
+    font-size: 26px;
+}
+.sign-up {
+    max-width: 94%;
+}	
+.top-logo span { font: 46px/52px "robotoitalic";}
+.doctor-login-section {
+    padding: 8% 0 0;
+}
+.right-part-doctor h3 { font-size:52px;}
+.right-part-doctor span {font-size: 45px;  line-height: 56px;}	
+.row-detail {
+    font-size: 43px;
+    margin-bottom: 19px;
+}
+.about-me p {
+    font-size: 39px;
+    line-height: 50px;
+}
+.main-comment p {
+    font-size: 34px;
+}
+	}
+@media only screen and (max-width:899px) {
+	.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 40%;
+}
+		.btn12 ul li a{
+		font-size:25px;}
+	.note.note4 {
+    padding: 0 40px;
+}
+	.slider-date2 .slider-date select{
+		font-size:29px;
+		width:22%;
+		} 
+.left-cnt > h2{
+	font-size:30px;
+	}
+.about-me {
+    clear: both;
+    padding: 0 40px;
+}
+.detail-heading.sbt2 {
+    padding: 0 40px;
+}
+.left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 40px;
+    width: 50%;
+}
+.center-to {
+    color: #009999;
+    float: left;
+    font-family: "robotomedium";
+    font-size: 32px;
+    line-height: 20px;
+    padding: 12px 30px 0 25px;
+}
+.slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    float: left;
+    font-size: 32px;
+   0 margin-left: 8px;
+    w0idth: 30%;
+}
+	width:40%;}
+.left-slider-date .slider-date{
+.check-text {
+    float: right;
+    width: 90%;
+}
+.right-part-doctor h3 {
+    font-size: 41px;
+}
+.right-part-doctor span {
+    font-size: 37px;
+    line-height: 48px;
+}
+.about-me p {
+    font-size: 33px;
+    line-height: 45px;
+}
+.row-detail {
+    font-size: 34px;
+    margin-bottom: 11px;
+}
+.main-comment p {
+    font-size: 30px;
+}
+.commenter {
+    font-size: 39px;
+}
+.date-comment {
+    font-size: 37px;
+}
+
+}	
+@media only screen and (max-width:767px) {
+		.copyright {
+    float: left;
+    margin: 20px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+.submission > p {
+    font-size: 28px;
+    padding: 0 40px;
+    text-align: center;
+}
+	/*new css start here*/
+		.input-box2 > h3 a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 65px;
+}
+		.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 40%;
+}
+.gary-txt2 > li {
+    font-size: 18px;
+    line-height: 45px;
+}
+.sally-black p {
+    float: left;
+    font-size: 21px;
+    line-height: 35px;
+    padding: 0 10px 0 40px;
+    width: 100%;
+}
+		.blue-color{
+			font-size:30px;}
+	.sally-black > h2 {
+    border-bottom: 4px solid #019096;
+    border-top: 4px solid #019096;
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 35px;
+    line-height: 65px;
+    padding: 0 40px;
+}
+	/*new css end here*/
+	.main-slogan{
+	font-size:28px;}
+.bottom-btn-are > span {
+    font-size: 28px;
+   padding: 30px 20px;
+}
+	.top-profile2 #right-colon {
+    font-size: 28px;
+    margin: 0;
+    width: 100%;
+}
+	.top-profile2 #left-colon{
+		font-size:28px;}
+		.proposal{
+		font-size:28px;} 
+	.btn12 ul li a{
+		font-size:25px;}
+	.proposal{
+		font-size:28px;}
+	.btn12 ul li a{
+		font-size:25px;}
+		/*new css start here*/
+	.login-section.log123 {
+    padding: 0;
+}
+	/*new css end here*/
+	/*new css start here*/
+.note.note4 {
+    padding: 0 30px;
+}
+.rht-cnt .black.blaog2{
+	margin:0px;}
+.slider-date2 .slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    color: #777;
+    float: left;
+    font-size: 22px;
+    margin-left: 8px;
+    width: 20%;
+}
+.label-plus-select241 select{
+	font-size:35px;}
+.rht-cnt {
+    float: right;
+    width: 100%;
+}
+.left-cnt > h2 {
+    float: left;
+    font-size: 29px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0 0 40px;
+    width: 100%;
+}
+.left-cnt .detail-heading {
+    font-size: 35px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+.left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 40px;
+    width: 100%;
+}
+.detail-heading.sbt2 {
+    font-size: 35px;
+}
+.medical-history.text1 > p {
+    font-size: 22px;
+}
+.medical-history > h3{
+	font-size:22px;}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotoregular;
+    font-size: 35px;
+    line-height: 70px;
+    margin: 0;
+    text-align: left;
+}
+
+.sbt2 .detail-heading {
+    font-size: 35px;
+    line-height: 40px;
+    margin: 0;
+	padding-top:15px;
+}
+.about-me.sbt2 {
+    padding: 0 40px;
+}
+.detail-heading.sbt2{
+	padding:0 40px;} 
+.medical-history > h2{
+	font-size:28px;}
+/*new css end here*/
+	/*New css start here*/
+	
+
+
+.patient-pro .checkbox-img .checklabel {
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+}
+.patient-pro .checkbox-img input[type="radio"]:checked + .checklabel::after{
+	width:10px;
+	height:10px;}
+	
+	.check-text {
+    float: right;
+    width: 80%;
+}
+.check-app .check-text{
+	font-size:22px;}
+	.patient-pro .check-app{
+		padding-top:15px;}
+		.day-main{
+			font-size:25px;}
+			.actual-date {
+    float: left;
+    font-family: "robotomedium";
+    font-size: 25px;
+    padding: 0 0 0 25px;
+}
+
+.left-slider-date .slider-date{
+	width:100%;}
+	.left-slider-date{
+		padding:15px;}
+		
+		.slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-mobile.png") no-repeat scroll right center;
+    float: left;
+    font-size: 40px;
+    margin-left: 30px;
+    width: 15%;
+}
+.center-to{
+	font-size:30px;}
+	.bottom-btn-are > span{
+		padding:0 20px;}
+		
+		.main-slogan {
+    font-family: "robotoitalic";
+    font-size: 32px;
+    font-weight: bold;
+    padding: 30px 20px;
+    text-align: center;
+}
+		/*New css end here*/
+	/*new css start here*/
+.apppointment .label-plus-select {
+    float: left;
+    width: 24%;
+}
+.apppointment select{
+	background:url(../images/arrow-mobile.png) right no-repeat;}
+.apppointment .slider-date select {
+    font-size: 19px;
+}
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    width: 40%;
+}
+.note textarea {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border: 1px solid #019096;
+    float: left;
+    font-size: 15px;
+    height: 235px;
+    padding: 10px;
+    width: 100%;
+}
+.apppointment > h5{
+	font-size:25px;}
+	.note h3{
+		font-size:25px;}
+.login-row-border2 {
+    float: left;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 100%;
+}
+
+/*new css end here*/
+	.selct-location ul li{
+	font-size:23px;}
+	.main-header h2{
+		font-size:45px;}
+.top-logo span { font: 35px/39px "robotoitalic";}	
+h1 {
+    font: 46px "robotomedium";
+}
+.login-row input[type="text"], .login-row input[type="password"] { font-size:35px;margin-bottom: 35px;padding: 7px 10px;}	
+input[type="button"] {font-size: 44px;padding: 10px;}
+input[type="button"] {
+    font-size: 32px;
+    padding: 10px;
+}
+.left-profile img {
+    height: auto;
+    width: 271px;
+}
+.row-detail {
+    font-size: 31px;
+    margin-bottom: 8px;
+}
+.main-comment p {
+    font-size: 28px;
+}
+.commenter span {
+    font: 42px "robotomedium";
+}
+.commenter {
+    font-size: 34px;
+}
+.date-comment {
+    font-size: 34px;
+}
+.main-comment {
+    padding: 30px 31px;
+}
+span.detail-heading {
+    font: 45px "robotomedium";
+}
+.left-profile {
+    padding-right: 22px;
+    width: 39%;
+}
+.about-me p {
+    font-size: 26px;
+    line-height: 39px;
+}
+.right-part-doctor {
+    padding-top: 34px;
+    width: 61%;
+}
+
+/*new csss*/
+	.blue{
+	font-size:35px;}
+	.black{
+		font-size:35px;}
+.arrow2 {
+    height: 26px;
+    margin: 11px 0 0;
+    width: 35px;
+}
+		.apppointment > h2{
+			font-size:32px;}
+			.projects ul li {
+    color: #019096;
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.projects > ul {
+    float: left;
+    width: 100%;
+}
+.projects {
+    float: left;
+    margin: 0;
+    padding: 0 30px;
+    width: 58%;
+}
+
+.projects2 {
+    float: left;
+    width: 40%;
+}
+
+.projects2 li {
+    font-size: 23px;
+    line-height: 40px;
+}
+
+.projects ul li {
+    color: #019096;
+    font-size: 23px;
+    line-height: 40px;
+}
+
+.login-row-border{
+	margin:20px 0 0 0;
+	}
+.apppointment > h2 {
+    font-size: 40px;
+    line-height: 50px;
+    padding-bottom: 25px;
+}
+	
+	}
+@media only screen and (max-width:639px) { 
+
+.row-detail {
+    font-size: 27px;
+}
+.row-detail #right-colon {
+    float: right;
+    text-align: right;
+}
+#right-colon > img {
+    width: 11%;
+}
+span.detail-heading {
+    font: 35px "robotomedium";
+}
+
+
+}	
+@media only screen and (max-width:567px) { 
+	.copyright {
+    float: left;
+    margin: 20px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+.submission > p {
+    font-size: 28px;
+    padding: 0 40px;
+    text-align: center;
+}
+/*new css start here*/
+		.input-box2 > h3 a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 65px;
+}
+		.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 40%;
+}
+.gary-txt2 > li {
+    font-size: 18px;
+    line-height: 45px;
+}
+.sally-black p {
+    float: left;
+    font-size: 21px;
+    line-height: 35px;
+    padding: 0 10px 0 40px;
+    width: 100%;
+}
+		.blue-color{
+			font-size:30px;}
+	.sally-black > h2 {
+    border-bottom: 4px solid #019096;
+    border-top: 4px solid #019096;
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 35px;
+    line-height: 65px;
+    padding: 0 40px;
+}
+	/*new css end here*/
+.main-slogan{
+	font-size:28px;}
+.bottom-btn-are > span {
+    font-size: 28px;
+   padding: 30px 20px;
+}
+	.top-profile2 #right-colon {
+    font-size: 28px;
+    margin: 0;
+    width: 100%;
+}
+	.top-profile2 #left-colon{
+		font-size:28px;}
+		.proposal{
+		font-size:28px;} 
+	.btn12 ul li a{
+		font-size:25px;}
+	.proposal{
+		font-size:28px;}
+	.btn12 ul li a{
+		font-size:25px;}
+/*new css start here*/
+.note.note4 {
+    padding: 0 30px;
+}
+.rht-cnt .black.blaog2{
+	margin:0px;}
+.slider-date2 .slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    color: #777;
+    float: left;
+    font-size: 22px;
+    margin-left: 8px;
+    width: 20%;
+}
+.label-plus-select241 select{
+	font-size:35px;}
+.rht-cnt {
+    float: right;
+    width: 100%;
+}
+.left-cnt > h2 {
+    float: left;
+    font-size: 29px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0 0 40px;
+    width: 100%;
+}
+.left-cnt .detail-heading {
+    font-size: 35px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+.left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 40px;
+    width: 100%;
+}
+.detail-heading.sbt2 {
+    font-size: 35px;
+}
+.medical-history.text1 > p {
+    font-size: 22px;
+}
+.medical-history > h3{
+	font-size:22px;}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotoregular;
+    font-size: 35px;
+    line-height: 70px;
+    margin: 0;
+    text-align: left;
+}
+
+.sbt2 .detail-heading {
+    font-size: 35px;
+    line-height: 40px;
+    margin: 0;
+	padding-top:15px;
+}
+.about-me.sbt2 {
+    padding: 0 40px;
+}
+.detail-heading.sbt2{
+	padding:0 40px;} 
+.medical-history > h2{
+	font-size:28px;}
+/*new css end here*/
+/*New css start here*/
+	
+	.make-appointment-row label{
+		font-size:28px;}
+		.make-appointment-row input[type="text"]{
+			font-size:25px;}
+			.day-month-year{
+				font-size:25px;}
+				.make-appointment.patient-detail select{
+					font-size:18px;}
+					.diffrent-finder-row > label{
+						font-size:27px;}
+						.check-app .check-text{
+							font-size:30px;}
+							.check-app .main-box-check {
+    float: left;
+    width: 10%;
+}
+
+.patient-pro .checkbox-img .checklabel {
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+}
+.patient-pro .checkbox-img input[type="radio"]:checked + .checklabel::after{
+	width:10px;
+	height:10px;}
+	
+	.check-text {
+    float: right;
+    width: 80%;
+}
+.check-app .check-text{
+	font-size:22px;}
+	.patient-pro .check-app{
+		padding-top:15px;}
+		.day-main{
+			font-size:25px;}
+			.actual-date {
+    float: left;
+    font-family: "robotomedium";
+    font-size: 25px;
+    padding: 0 0 0 25px;
+}
+
+.left-slider-date .slider-date{
+	width:100%;}
+	.left-slider-date{
+		padding:15px;}
+		
+		.slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-mobile.png") no-repeat scroll right center;
+    float: left;
+    font-size: 40px;
+    margin-left: 30px;
+    width: 15%;
+}
+.center-to{
+	font-size:30px;}
+	.bottom-btn-are > span{
+		padding:0 20px;}
+		
+		.main-slogan {
+    font-family: "robotoitalic";
+    font-size: 32px;
+    font-weight: bold;
+    padding: 30px 20px;
+    text-align: center;
+}
+		/*New css end here*/
+
+/*new css start here*/
+.apppointment .label-plus-select {
+    float: left;
+    width: 24%;
+}
+.apppointment select{
+	background:url(../images/arrow-mobile.png) right no-repeat;}
+.apppointment .slider-date select {
+    font-size: 19px;
+}
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    width: 40%;
+}
+.note textarea {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border: 1px solid #019096;
+    float: left;
+    font-size: 15px;
+    height: 235px;
+    padding: 10px;
+    width: 100%;
+}
+.apppointment > h5{
+	font-size:25px;}
+	.note h3{
+		font-size:25px;}
+.login-row-border2 {
+    float: left;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 100%;
+}
+
+/*new css end here*/
+
+.top-logo span {
+    font: 28px/37px "robotoitalic";
+}
+
+.right-part-doctor span {
+    font-size: 26px;
+    line-height: 40px;
+}
+.right-part-doctor h3 {
+    font-size: 31px;
+    margin-bottom: 11px;
+}
+.right-part-doctor {
+    padding-top: 15px;
+    width: 61%;
+}
+.about-me p {
+    font-size: 21px;
+    line-height: 33px;
+}
+.indentity-location {font-size: 34px;}
+.row-detail {
+    font-size: 19px;
+}
+.row-detail {
+    font-size: 17px;
+}
+span.detail-heading {
+    font: 29px "robotomedium";
+}
+.commenter span {
+    font: 35px "robotomedium";
+}
+.commenter {
+    font-size: 28px;
+}
+.date-comment {
+    font-size: 30px;
+}
+.main-comment p {
+    font-size: 20px;
+}
+.main-header h2 {font-size: 43px;
+    padding: 17px 0;}
+	/*new csss*/
+	.blue{
+	font-size:28px;}
+	.black{
+		font-size:28px;}
+.arrow2 {
+    height: 20px;
+    margin: 10px 0 0;
+    width: 22px;
+}
+		.apppointment > h2{
+			font-size:32px;}
+			.projects ul li {
+    color: #019096;
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.projects > ul {
+    float: left;
+    width: 100%;
+}
+.projects {
+    float: left;
+    margin: 0;
+    padding: 0 30px;
+    width: 58%;
+}
+
+.projects2 {
+    float: left;
+    width: 40%;
+}
+
+.projects2 li {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.projects ul li {
+    color: #019096;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+
+	.apppointment > h2 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 25px;
+}
+	
+	
+	
+}		
+
+@media only screen and (max-width:479px) {
+	
+		/*new css start here*/
+		.input-box2 > h3 a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 65px;
+}
+		.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 40%;
+}
+.gary-txt2 > li {
+    font-size: 18px;
+    line-height: 45px;
+}
+.sally-black p {
+    float: left;
+    font-size: 21px;
+    line-height: 35px;
+    padding: 0 10px 0 40px;
+    width: 100%;
+}
+		.blue-color{
+			font-size:30px;}
+	.sally-black > h2 {
+    border-bottom: 4px solid #019096;
+    border-top: 4px solid #019096;
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 35px;
+    line-height: 65px;
+    padding: 0 40px;
+}
+	/*new css end here*/
+.main-slogan{
+	font-size:28px;}
+.bottom-btn-are > span {
+    font-size: 28px;
+   padding: 30px 20px;
+}
+	.top-profile2 #right-colon {
+    font-size: 28px;
+    margin: 0;
+    width: 100%;
+}
+	.top-profile2 #left-colon{
+		font-size:28px;}
+		.proposal{
+		font-size:26px;} 
+	.btn12 ul li a{
+		font-size:25px;}
+/*new css start here*/
+.note.note4 {
+    padding: 0 30px;
+}
+.rht-cnt .black.blaog2{
+	margin:0px;}
+.slider-date2 .slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    color: #777;
+    float: left;
+    font-size: 22px;
+    margin-left: 8px;
+    width: 20%;
+}
+.label-plus-select241 select{
+	font-size:35px;}
+.rht-cnt {
+    float: right;
+    width: 100%;
+}
+.left-cnt > h2 {
+    float: left;
+    font-size: 29px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0 0 40px;
+    width: 100%;
+}
+.left-cnt .detail-heading {
+    font-size: 35px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+.left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 40px;
+    width: 100%;
+}
+.detail-heading.sbt2 {
+    font-size: 35px;
+}
+.medical-history.text1 > p {
+    font-size: 22px;
+}
+.medical-history > h3{
+	font-size:22px;}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotoregular;
+    font-size: 35px;
+    line-height: 70px;
+    margin: 0;
+    text-align: center;
+}
+
+.sbt2 .detail-heading {
+    font-size: 35px;
+    line-height: 40px;
+    margin: 0;
+	padding-top:15px;
+}
+.about-me.sbt2 {
+    padding: 0;
+}
+.medical-history > h2{
+	font-size:28px;}
+/*new css end here*/
+/*new css start here*/
+.apppointment .label-plus-select {
+    float: left;
+    width: 24%;
+}
+.apppointment select{
+	background:url(../images/arrow-mobile.png) right no-repeat;}
+.apppointment .slider-date select {
+    font-size: 19px;
+}
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    width: 60%;
+}
+.note textarea {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border: 1px solid #019096;
+    float: left;
+    font-size: 15px;
+    height: 235px;
+    padding: 10px;
+    width: 100%;
+}
+.apppointment > h5{
+	font-size:19px;}
+	.note h3{
+		font-size:25px;}
+.login-row-border2 {
+    float: left;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 100%;
+}
+
+/*new css end here*/
+
+.top-logo span {
+    font: 20px/25px "robotoitalic";
+}
+h1 {
+    font: 34px "robotomedium";
+}
+.login-section {
+    padding: 29px 0;
+}
+.login-row input[type="text"], .login-row input[type="password"] { font-size:24px; margin-bottom:10px;}
+input[type="button"] {
+   font-size: 18px;
+    margin-top: 16px;
+    padding: 10px; margin-bottom:0;
+}
+.left-profile img {
+    height: 220px;
+    width: 220px;
+}
+.left-profile {
+    padding-right: 0;width: 100%;text-align: center;
+}
+.right-part-doctor {
+    padding-top: 15px;
+    text-align: center;
+    width: 100%;
+}
+.profile-section {
+    padding: 35px 10px;
+}
+.indentify-location {
+    display: block;
+    font-size: 30px;
+    text-align: center;
+}
+span.detail-heading {
+    display: block;
+    font: 24px "robotomedium";
+    text-align: center;
+}
+.detail-part { margin-top:0;padding: 18px 30px 30px;}
+.indentity-location {
+    font-size: 27px;
+    padding-top: 10px;margin-bottom: 30px;text-align: center;
+}
+.row-detail #left-colon {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.row-detail {
+    border-bottom: 1px solid #eaeaea;
+    font-size: 17px;
+    margin-bottom: 0;
+    padding: 13px 0;
+}
+.row-detail #right-colon {
+    display: block;
+    float: none;
+    text-align: center;
+}
+.job-content span.detail-heading {
+    display: block;
+    padding-bottom: 12px;
+}
+#right-colon > img {
+    margin-top: 10px;
+    width: 11%;
+}
+
+.commenter {
+    font-size: 24px;
+}
+.commenter span {
+    font: 27px "robotomedium";
+
+}
+.date-comment {
+    font-size: 27px;
+}
+.main-comment {
+    padding: 9px 10px 24px;
+}
+.main-comment p {
+    font-size: 14px;
+}
+.patient-comment > input[type="button"] {
+    margin: 20px auto;
+}
+
+.blue{
+	font-size:20px;}
+	.black{
+		font-size:20px;}
+	.arrow2{
+		width:22px;
+		height:17px;
+		margin:5px 0 0 0;}
+		.apppointment > h2{
+			font-size:32px;}
+			.projects ul li {
+    color: #019096;
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.projects > ul {
+    float: left;
+    width: 100%;
+}
+.projects {
+    float: left;
+    margin: 0;
+    padding: 0 30px;
+    width: 100%;
+}
+
+.projects2 {
+    float: left;
+    width: 40%;
+}
+
+.projects2 li {
+    font-size: 15px;
+    line-height: 32px;
+}
+
+.projects ul li {
+    color: #019096;
+    font-size: 15px;
+    line-height: 32px;
+}
+
+
+	.apppointment > h2 {
+    font-size: 25px;
+    line-height: 20px;
+    padding-bottom: 25px;
+}
+.selct-location ul li{
+	font-size:23px;}
+	
+	/*New css start here*/
+	
+	.make-appointment-row label{
+		font-size:28px;}
+		.make-appointment-row input[type="text"]{
+			font-size:25px;}
+			.day-month-year{
+				font-size:25px;}
+				.make-appointment.patient-detail select{
+					font-size:18px;}
+					.diffrent-finder-row > label{
+						font-size:27px;}
+						.check-app .check-text{
+							font-size:30px;}
+							.check-app .main-box-check {
+    float: left;
+    width: 10%;
+}
+
+.patient-pro .checkbox-img .checklabel {
+    border-radius: 50px;
+    height: 20px;
+    width: 20px;
+}
+.patient-pro .checkbox-img input[type="radio"]:checked + .checklabel::after{
+	width:10px;
+	height:10px;}
+	
+	.check-text {
+    float: right;
+    width: 80%;
+}
+.check-app .check-text{
+	font-size:22px;}
+	.patient-pro .check-app{
+		padding-top:15px;}
+		.day-main{
+			font-size:25px;}
+			.actual-date {
+    float: left;
+    font-family: "robotomedium";
+    font-size: 25px;
+    padding: 0 0 0 25px;
+}
+
+.left-slider-date .slider-date{
+	width:100%;}
+	.left-slider-date{
+		padding:15px;}
+		
+		.slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-mobile.png") no-repeat scroll right center;
+    float: left;
+    font-size: 20px;
+    margin-left: 30px;
+    width: 20%;
+}
+.center-to{
+	font-size:30px;}
+		/*New css end here*/
+}
+
+
+@media (min-width:300px) and (max-width:479px) {
+	.details-pateint2 .login-row-border {
+    width: auto;
+}
+	.medical-history > p {
+    font-size: 13px!important;
+    padding: 15px 0 0;
+}
+	.medical-history {
+    padding: 20px!important;
+}
+	.about-me #left-colon {
+    width: 48%!important;
+}
+	.details-pateint2 #right-colon > img {
+    margin: -45px 0 0;
+    width: 6%;
+}
+	.details-pateint2 .row-detail {
+    font-size: 31px;
+    margin-bottom: 0;
+}
+	span.detail-heading {
+    font: 18px "robotomedium";
+    margin: 0;
+    text-align: left;
+}
+	.details-pateint2 #left-colon {
+    float: left;
+    font-size: 16px;
+    text-align: left;
+    width: 60%;
+}
+	.medical-history > p {
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+		.details-pateint2 #right-colon {
+    float: right;
+    font-size: 16px;
+    text-align: right;
+}
+		span.detail-heading {
+    font: 27px "robotomedium";
+}
+	
+		.medical-history{
+			padding:40px;}
+		
+		.medical-history span {
+    font-family: robotomedium;
+    font-size: 16px;
+}
+
+
+
+.profile-section .right-part-doctor {
+    padding-right: 0;
+    padding-top: 4px;
+    text-align: left;
+    width: auto;
+}
+
+
+	
+	
+	.open9 .arrow2 {
+    margin: -7px 0 0;
+}
+	.spacer-68 {
+    float: left;
+    height: 0px;
+    width: 100%;
+}
+	.other-times-day{
+		padding:20px 20px;}
+	.diffrent-finder-row textarea {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border: 2px solid #019096;
+    font-size: 45px;
+    height: 100px;
+    margin-top: 0;
+    padding: 5px 10px;
+    width: 100%;
+}
+	.appoint-make .make-appointment-row > label{
+		padding-top:0px;}
+				.day-main {
+    font-size: 16px;
+	margin:8px 0 0 0
+}
+	.diffrent-finder-row > label {
+    font-size: 16px;
+    line-height: 21px;
+	margin:0;
+}
+		.check-app{
+			padding:0px;}
+		.diffrent-finder-row textarea {
+    font-size: 16px;
+}
+					.left-slider-date .slider-date {
+    width: 35%;
+}
+
+.appoint-make .copyright {
+    margin-top: 20px;
+}
+.appoint-make .slider-date select {
+    font-size: 12px;
+   
+}
+.center-to {
+    font-size: 16px;
+    line-height: 5px;
+    margin: -6px 0 0;
+}
+
+.actual-date{
+	margin:8px 0 0 0;
+	font-size:16px;}  
+.check-app .check-text {
+    font-size: 15px;
+    line-height: 35px;
+}
+			.diffrent-finder-row textarea{
+				margin:0 0 20px 0;
+				font-size:13px;}
+			.main-box-check{
+				margin:-17px 0 0 0;}
+			
+			.checkbox-img input[type="radio"]:checked + .checklabel::after{
+				background-size:19px;}
+			.appoint-make .make-appointment-row > input {
+    font-size: 15px;
+}
+
+.diffrent-location span.or{
+	padding-bottom:0px;
+	font-size:16px;}
+	
+	.diffrent-finder-row{
+		padding:0px;}
+
+	
+	
+	
+	
+	
+	
+	
+	.note.note8 textarea {
+    margin-bottom: 10px;
+}
+					.apppointment .slider-date select {
+    background-size: 10px auto;
+    font-size: 12px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    padding-right: 30px;
+    padding-top: 30px;
+    width: 55%;
+}
+			.black{
+				font-size:16px;}
+			.apppointment .blue{
+				font-size:16px;}
+				.apppointment > h5{
+					line-height:72px;
+					font-size:16px;}
+					
+					.note h3{
+						font-size:16px;}
+						.note textarea{
+							font-size:13px;}
+.note8 h3 {
+    line-height: 100px;
+}		 
+		
+	.slider-date2 .slider-date select{
+		width:46%;
+		margin-left:0px;}
+	.label-plus-select241 select{
+		 background-size: 14px auto;
+		 height:33px;
+    margin: 0;
+    padding: 0 17px;
+}
+	.left-cnt > h2{
+		padding:0 0 5px 0;}
+	.slider-date2 .slider-date select{
+			font-size:15px;}
+					.note textarea{
+	font-size:27px; }
+
+			.note h3 {
+    font-family: robotomedium;
+    font-size: 33px;
+    line-height: 65px;
+}
+					.note.note4{
+				padding:0px;}
+			.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 12px auto;
+    float: right;
+    height: 38px;
+    margin: 3px 0 0;
+    width: 25px;
+}   
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 32px;
+    margin: 225px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 32px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:26px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:20px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 24px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 18px;
+    line-height: 35px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 24px;
+    line-height: 45px;
+    margin: 0;
+}
+
+			.note textarea{
+	font-size:20px; }
+
+			.note h3 {
+    font-family: robotomedium;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.note textarea{
+	font-size:13px;}
+					.note.note4{
+				padding:0px;}
+	.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 8px auto;
+    float: right;
+    height: 38px;
+    margin: -3px 0 0;
+    width: 25px;
+}
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 20px;
+    margin: 82px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:35%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 65%;
+}
+			.left-cnt .detail-heading {
+    font-size: 16px;
+	float:left;
+	width:100%;
+	text-align:left;
+	padding:15px 0 10px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:14px;}
+			.checkbox-img .checklabel{
+				width:25px;
+				height:25px;
+				top:22px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:19px;
+				height:19px;}  
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:19px;
+				height:19px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 16px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 12px;
+    line-height: 22px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 16px;
+    line-height: 29px;
+	text-align:left;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 13px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 22px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 27px;
+    line-height: 45px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:29px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:29px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.medical-history{
+	padding:40px;}
+.left-cnt > h2 {
+    font-size: 29px;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 15px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 13px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 13px;
+    line-height: 30px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:29px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:16px;
+	text-align:left;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 16px;
+}
+		
+	
+	
+	
+	
+	
+	.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center / 15px auto!important;}
+	.doctor-login-section {
+    padding: 50px 0 0;
+}
+	.log4 .log3 {
+    margin: 23px 0 0;
+    padding: 0;
+}
+
+.log4 .login-section {
+    margin: 0;
+    padding: 0;
+}
+					.oxford li {
+    border-bottom: 1px solid #cecece;
+    line-height: 38px;
+	font-size:15px;
+    
+}
+	.about-me span.detail-heading {
+    font: 16px "robotomedium";
+    text-align: left;
+}
+	.profile-section .right-part-doctor {
+    padding-right: 0;
+    padding-top: 4px;
+    width: auto;
+}
+	.main-comment {
+    padding: 0 31px 22px;
+}
+			.main-comment p {
+    font-size: 13px;
+}
+			.commenter {
+    font-size: 13px;
+}
+			.commenter span {
+    font: 15px "robotomedium";
+}
+			.date-comment {
+    font-size: 13px;
+}
+	.patient-comment .detail-heading {
+    font-size: 16px;
+    text-align: left;
+}
+			.detail-part #right-colon > img {
+    
+    width: 20px;
+}
+.job-content span.detail-heading {
+    display: block;
+    font-size: 18px;
+    padding-bottom: 0;
+    text-align: left;
+}
+	.detail-part #right-colon {
+    font-size: 15px;
+    text-align: right;
+}
+			.detail-part #left-colon {
+    float: left;
+    font-size: 16px;
+	width:auto;
+	text-align:left;
+}
+			
+			.about-me .login-row > input {
+    font-size: 15px !important;
+    margin-top: 0px;
+}
+	.indentify-location {
+    color: #019096;
+    font: 16px "robotomedium";
+    text-align: left;
+}
+.about-me textarea {
+    font-family: robotoregular;
+    font-size: 15px;
+    line-height: 24px;
+    min-height: 70px;
+}
+			.profile-section{
+				padding:20px;}
+			.profile-section .right-part-doctor span {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.about-me{
+	padding:20px 0 0 0px;}
+		.profile-section .left-profile {
+    padding: 0 11px 0 0;
+    width: auto;
+}
+			.profile-section .right-part-doctor h3 {
+    font-size: 18px;
+	margin-bottom:5px;
+}
+			.input-box2 > h3 a{
+				font-size:23px;}
+			.sally-black p{
+				font-size:27px;}
+	.doctor-login-section h1{
+		font-size:16px;}
+	.gray-cnt{
+		padding:10px 0;}
+	.gray-cnt2{
+		padding:10px 0;}
+			.input-box2 {
+    padding: 0 20px;
+}
+		.input-box2 > input {
+    border: 1px solid #c8c8cd;
+    border-radius: 10px;
+    float: left;
+    font-size: 15px;
+    height: 43px;
+    line-height: 43px;
+    padding: 0 10px;
+    width: 80%;
+}
+		.input-box2 > h3 a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 36px;
+}
+.input-box2 > h3{
+	height:36px;}
+	
+
+		.gary-txt2 > li{
+			    font-size: 12px;
+    line-height: 20px;
+			padding:0 20px;
+			float:right;}
+		.sally-black p{
+			font-size:13px;
+			line-height:20px;
+			padding:0 20px;}
+		.top-profile2{
+			padding:20px;}
+		.gray-txt {
+    float: left;
+    padding: 0 20px;
+    width: 55%;
+}
+	.blue-color {
+    font-size: 15px;
+    line-height: 20px;
+}
+		.sally-black > h2{
+			font-size:16px;
+			padding:0 20px;
+			line-height:31px;}
+	
+	
+	
+	
+	
+	
+	
+	
+	.top-profile2{
+		padding:15px;}
+	.top-profile2 .row-detail{
+		border:none;}
+	#right-colon > h3 {
+    float: right;
+    font-family: robotoregular;
+    font-size: 10px;
+    line-height: 14px;
+    margin: -15px 0 0;
+    width: 59%;
+}
+
+.bottom-btn-are {
+    padding: 1px 0 20px;
+}
+
+.bottom-btn-are .copyright {
+    margin: 21px 0 0;
+}
+
+.top-profile2 .row-detail {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+			.top-profile2 .right-part-doctor h3 {
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.top-profile2 .right-part-doctor span {
+    border: medium none;
+    font-size: 12px;
+	line-height:20px;
+}
+
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+	width:auto;
+    padding-top: 10px;
+}
+.top-profile2 #left-colon {
+    font-size: 12px;
+	text-align:left;
+    width: 65%;
+}
+.top-profile2 #right-colon {
+    font-size: 12px;
+    line-height: 19px;
+    margin: 0;
+    text-align: right;
+    width: auto;
+}
+			.left-profile img {
+    height: 59px;
+    width: 59px;
+}
+
+.top-profile2 .left-profile{
+	padding-bottom:0px;
+	margin:0 12px 0 0;
+	width:auto;}
+.proposal {
+    font-size: 16px;
+    line-height: 23px;
+    padding: 9px 15px 9px 40px;
+}
+	
+	
+	
+	
+	
+				.btn12 ul li{
+					margin-bottom:8px;
+			line-height:0;}
+		
+					.btn12 ul li a {
+    font-size: 13px;
+    line-height: 27px;
+}
+			
+					.log3 {
+    padding: 0 20px;
+}
+.log3 .make-appointment-row label {
+    padding: 0;
+    text-align: left;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 15px;
+    text-align: left;
+    width: 100%;
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 5px;
+}
+	
+	.make-appointment-row label{
+		padding-bottom:0px;}
+	.log2 select{
+				margin-top:0px;}
+			.make-appointment-row {
+    margin: 0 0 12px;
+}
+
+.login-section {
+    padding: 30px 0;
+}
+				.make-appointment-row label {
+       font-size: 16px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 19px;
+}
+.make-appointment-row hr {
+      width: 70%;
+}
+	.selct-location ul li a {
+    font-family: roboto;
+    font-size: 15px;
+    line-height: 37px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 10% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 10% auto;
+ }
+	
+	.login-row-border {
+    float: none;
+    margin: 0 auto!important;
+    width: 276px;
+}
+	.copyright {
+    float: left;
+    margin: 67px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+	.copyright p strong {
+     font-size: 10px;
+    margin: 10px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:9px;}
+		
+		
+	input[type="button"]{
+		line-height:24px;
+		height:42px;}
+	.login-row-border {
+    float: none;
+    margin: 35px auto;
+	padding:0 10px 10px;
+    width: auto;
+}
+	.submission {
+    margin: 39px 0 0;
+}
+	.submission .detail-heading {
+		padding-bottom:10px;
+    font-size: 22px;
+}
+	.submission > p {
+    font-size: 15px;
+    padding: 0 10px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 18px;
+    padding: 10px 0;
+}
+	.tahnk-you h1 {
+    font-size: 58px;
+    line-height: 71px;
+    margin: 51px 0 0;
+    text-align: center;
+ 
+}
+	}
+	
+	
+	@media (min-width:480px) and (max-width:567px) {
+		.details-pateint2 #right-colon > img {
+    margin: -65px 0 0;
+    width: 11%;
+}
+.medical-history > p {
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+		.details-pateint2 #right-colon {
+    float: right;
+    font-size: 24px;
+    text-align: right;
+}
+		span.detail-heading {
+    font: 27px "robotomedium";
+}
+		.details-pateint2 .row-detail {
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+		.medical-history{
+			padding:40px;}
+		
+		.medical-history span {
+    font-family: robotomedium;
+    font-size: 24px;
+}
+
+.details-pateint2 #left-colon {
+    float: left;
+    font-size: 24px;
+}
+		
+			.day-main {
+    font-size: 24px;
+}
+		.diffrent-finder-row > label {
+    font-size: 24px;
+    line-height: 40px;
+}
+		.check-app{
+			padding:0px;}
+		.diffrent-finder-row textarea {
+    font-size: 24px;
+}
+					.left-slider-date .slider-date {
+    width: 38%;
+}
+
+.appoint-make .slider-date select {
+    font-size: 20px;
+   
+}
+.center-to {
+    font-size: 24px;
+	line-height:5px;
+}
+
+.actual-date{
+	font-size:24px;}  
+			.check-app .check-text {
+    font-size: 22px;
+
+}
+			.diffrent-finder-row textarea{
+				font-size:20px;}
+			.main-box-check{
+				margin:-17px 0 0 0;}
+			
+			.checkbox-img input[type="radio"]:checked + .checklabel::after{
+				background-size:29px;}
+			.appoint-make .make-appointment-row > input {
+    font-size: 22px;
+}
+
+.diffrent-location span.or{
+	padding-bottom:0px;
+	font-size:24px;}
+
+		
+		
+		
+		
+					.apppointment .slider-date select {
+    background-size: 10px auto;
+    font-size: 21px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    padding-right: 30px;
+    padding-top: 38px;
+    width: 55%;
+}
+			.black{
+				font-size:24px;}
+			.apppointment .blue{
+				font-size:24px;}
+				.apppointment > h5{
+					font-size:24px;}
+					
+					.note h3{
+						font-size:24px;}
+						.note textarea{
+							font-size:20px;}
+.note8 h3 {
+    line-height: 100px;
+}		 
+		
+		
+		
+		.slider-date2 .slider-date select{
+			font-size:15px;}
+					.note textarea{
+	font-size:27px; }
+
+			.note h3 {
+    font-family: robotomedium;
+    font-size: 33px;
+    line-height: 65px;
+}
+					.note.note4{
+				padding:0px;}
+			.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 12px auto;
+    float: right;
+    height: 38px;
+    margin: 3px 0 0;
+    width: 25px;
+}   
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 32px;
+    margin: 225px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 32px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:26px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:20px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 24px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 18px;
+    line-height: 35px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 24px;
+    line-height: 45px;
+    margin: 0;
+}
+
+			.note textarea{
+	font-size:20px; }
+
+			.note h3 {
+    font-family: robotomedium;
+    font-size: 24px;
+    line-height: 60px;
+}
+					.note.note4{
+				padding:0px;}
+	.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 8px auto;
+    float: right;
+    height: 38px;
+    margin: -3px 0 0;
+    width: 25px;
+}
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 24px;
+    margin: 225px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 24px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:26px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:20px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 29px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 21px;
+    line-height: 40px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 21px;
+    line-height: 40px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 29px;
+    line-height: 53px;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 22px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 27px;
+    line-height: 45px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:29px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:29px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 29px;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 26px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 22px;
+    line-height: 45px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:29px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:24px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 22px;
+}
+		
+		
+		
+		
+		
+				.oxford li {
+    border-bottom: 1px solid #cecece;
+    line-height: 54px;
+	font-size:22px;
+    
+}
+			.main-comment {
+    padding: 10px 31px 30px;
+}
+			.main-comment p {
+    font-size: 20px;
+}
+			.commenter {
+    font-size: 20px;
+}
+			.commenter span {
+    font: 22px "robotomedium";
+}
+			.date-comment {
+    font-size: 27px;
+}
+			.patient-comment .detail-heading {
+    font-size: 24px;
+    padding: 0 30px;
+}
+			.detail-part #right-colon > img {
+    
+    width: 30px;
+}
+			.job-content span.detail-heading {
+    display: block;
+    font-size: 27px;
+    padding-bottom: 10px;
+}
+			.detail-part #right-colon {
+    font-size: 22px;
+}
+			.detail-part #left-colon {
+    float: left;
+    font-size: 24px;
+}
+			
+			.about-me .login-row > input {
+    font-size: 22px !important;
+    margin-top: 0px;
+}
+			.indentify-location {
+    color: #019096;
+    font: 24px "robotomedium";
+}
+.about-me textarea {
+    font-family: robotoregular;
+    font-size: 22px;
+    min-height: 130px;
+}
+.about-me span.detail-heading {
+    font: 24px "robotomedium";
+}
+.profile-section .right-part-doctor {
+    padding-top: 15px;
+}
+			.profile-section{
+				padding:20px;}
+			.profile-section .right-part-doctor span {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.about-me{
+	padding:20px 0 0 0px;}
+			.profile-section .left-profile{
+				width:auto;}
+			.profile-section .right-part-doctor h3 {
+    font-size: 27px;
+	margin-bottom:5px;
+}
+			.input-box2 > h3 a{
+				font-size:23px;}
+			.sally-black p{
+				font-size:27px;}
+		
+		.input-box2 {
+    padding: 0 20px;
+}
+		.input-box2 > input {
+    border: 1px solid #c8c8cd;
+    border-radius: 10px;
+    float: left;
+    font-size: 15px;
+    height: 43px;
+    line-height: 43px;
+    padding: 0 10px;
+    width: 80%;
+}
+		.input-box2 > h3 a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 36px;
+}
+.input-box2 > h3{
+	height:36px;}
+		.gary-txt2 > li{
+			padding:0 20px;
+			float:right;}
+		.sally-black p{
+			padding:0 20px;}
+		.top-profile2{
+			padding:20px;}
+		.gray-txt {
+    float: left;
+    padding: 0 20px;
+    width: 55%;
+}
+		.blue-color {
+			line-height:40px;
+    font-size: 22px;
+}
+		.sally-black > h2{
+			font-size:24px;
+			padding:0 20px;
+			line-height:48px;}
+	#right-colon > h3 {
+    float: right;
+    font-family: robotoregular;
+    font-size: 18px;
+    line-height: 23px;
+    margin: -22px 0 0;
+    width: 59%;
+}
+
+.bottom-btn-are {
+    padding: 1px 0 20px;
+}
+
+.bottom-btn-are .copyright {
+    margin: 0;
+}
+
+.top-profile2 .row-detail {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+			.top-profile2 .right-part-doctor h3 {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+.top-profile2 .right-part-doctor span {
+    border: medium none;
+    font-size: 20px;
+}
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 25px;
+}
+.top-profile2 #left-colon {
+    font-size: 18px;
+	width:57%;
+}
+
+.top-profile2 #right-colon {
+    font-size: 18px;
+	line-height:30px;
+    margin: 0;
+    width: auto;
+}
+			.left-profile img {
+    height: 116px;
+    width: 116px;
+}
+
+.top-profile2 .left-profile{
+	padding-bottom:20px;
+	width:auto;}
+.proposal {
+    font-size: 24px;
+    padding: 15px 15px 15px 40px;
+}
+	
+		
+		
+		
+		
+		
+		
+		.btn12 ul li{
+			line-height:20px;}
+		
+					.btn12 ul li a {
+    font-size: 20px;
+    line-height: 27px;
+}
+			
+					.log3 {
+    padding: 0 20px;
+}
+.log3 .make-appointment-row label {
+    padding: 0;
+    text-align: left;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 22px;
+    text-align: left;
+    width: 100%;
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 5px;
+}
+
+
+
+
+			.log2 select{
+				margin-top:0px;}
+				.make-appointment-row {
+    margin: 0 0 33px;
+}
+
+.login-section {
+    padding: 30px 0;
+}
+				.make-appointment-row label {
+       font-size: 24px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 28px;
+}
+.make-appointment-row hr {
+      width: 70%;
+}
+		
+		
+			.selct-location ul li a {
+    font-family: roboto;
+    font-size: 22px;
+    line-height: 57px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+ }
+		
+		
+	input[type="button"] {
+    font-size: 22px;
+    padding: 10px;
+}
+	
+	.copyright p strong {
+     font-size: 14px;
+    margin: 10px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:13px;}
+		
+		
+input[type="button"] {
+    height: 60px;
+    line-height: 38px;
+}
+	.login-row-border {
+    float: none;
+    margin: 20px auto;
+    width: 411px;
+}
+	.submission {
+    margin: 65px 0 0;
+}
+	.submission .detail-heading {
+		padding-bottom:10px;
+    font-size:33px;
+}
+	.submission > p {
+    font-size: 22px;
+    padding: 0 10px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 27px;
+    padding: 10px 0;
+}
+	.tahnk-you h1 {
+    font-size: 88px;
+    line-height: 100px;
+    margin: 80px 0 0;
+    text-align: center;
+ 
+}
+.copyright {
+    float: left;
+    margin: 107px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+	}
+	
+	
+	@media (min-width:568px) and (max-width:639px) {
+		.day-month-year{
+			font-size:26px;}
+		.container125 .make-appointment-row input[type="text"]{
+			font-size:26px;}
+		.container125 .bottom-btn-are {
+    padding: 0;
+}
+		.details-pateint2 .row-detail {
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+		.medical-history{
+			padding:40px;}
+		.medical-history > p {
+    font-size: 24px;
+    padding: 15px 0 0;
+}
+		.medical-history span {
+    font-family: robotomedium;
+    font-size: 24px;
+}
+		.day-main {
+    font-size: 29px;
+}
+		.diffrent-finder-row > label {
+    font-size: 29px;
+    line-height: 40px;
+}
+		.check-app{
+			padding:0px;}
+		.diffrent-finder-row textarea {
+    font-size: 24px;
+}
+					.left-slider-date .slider-date {
+    width: 40%;
+}
+
+.appoint-make .slider-date select {
+    font-size: 29px;
+   
+}
+.center-to {
+    font-size: 29px;
+}
+
+.actual-date{
+	font-size:29px;}  
+			.check-app .check-text {
+    font-size: 26px;
+
+}
+			.diffrent-finder-row textarea{
+				font-size:27px;}
+			.main-box-check{
+				margin:-17px 0 0 0;}
+			
+			.checkbox-img input[type="radio"]:checked + .checklabel::after{
+				background-size:29px;}
+			.appoint-make .make-appointment-row > input {
+    font-size: 26px;
+}
+
+.diffrent-location span.or{
+	padding-bottom:0px;
+	font-size:33px;}
+
+		
+		
+		
+					.apppointment .slider-date select {
+    background-size: 10px auto;
+    font-size: 21px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    padding-right: 30px;
+    padding-top: 38px;
+    width: 40%;
+}
+			.black{
+				font-size:29px;}
+			.apppointment .blue{
+				font-size:29px;}
+				.apppointment > h5{
+					font-size:29px;}
+					
+					.note h3{
+						font-size:29px;}
+						.note textarea{
+							font-size:24px;}
+.note8 h3 {
+    line-height: 100px;
+}		
+		
+	
+					.note.note4{
+				padding:0px;}
+			.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 12px auto;
+    float: right;
+    height: 38px;
+    margin: 3px 0 0;
+    width: 25px;
+}   
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 32px;
+    margin: 225px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 32px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:26px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:20px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 29px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 21px;
+    line-height: 40px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 21px;
+    line-height: 40px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 29px;
+    line-height: 53px;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 24px;
+    line-height: 40px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 26px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 24px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 27px;
+    line-height: 45px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:29px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:29px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 29px;
+}
+		
+		
+		
+		
+		
+		
+				.oxford li {
+    border-bottom: 1px solid #cecece;
+    line-height: 63px;
+	font-size:26px;
+    
+}
+			.main-comment {
+    padding: 10px 31px 30px;
+}
+			.main-comment p {
+    font-size: 23px;
+}
+			.commenter {
+    font-size: 23px;
+}
+			.commenter span {
+    font: 26px "robotomedium";
+}
+			.date-comment {
+    font-size: 24px;
+}
+			.patient-comment .detail-heading {
+    font-size: 33px;
+    padding: 0 30px;
+}
+			.detail-part #right-colon > img {
+    
+    width: 30px;
+}
+			.job-content span.detail-heading {
+    display: block;
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+			.detail-part #right-colon {
+    font-size: 26px;
+}
+			.detail-part #left-colon {
+    float: left;
+    font-size: 29px;
+}
+			
+	.about-me .login-row > input {
+    font-size: 26px !important;
+    margin-top: 0;
+}
+	.indentify-location {
+    color: #019096;
+    font: 29px "robotomedium";
+}
+			.about-me textarea {
+
+    font-family: robotoregular;
+    font-size: 26px;
+    min-height: 155px;
+
+}
+			.about-me span.detail-heading {
+    font: 29px "robotomedium";
+}
+			.profile-section{
+				padding:20px;}
+			.profile-section .right-part-doctor span {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.about-me{
+	padding:20px 0 0 0px;}
+			.profile-section .left-profile{
+				width:auto;}
+			.profile-section .right-part-doctor h3 {
+    font-size: 32px;
+	margin-bottom:5px;
+}
+			.input-box2 > h3 a{
+				font-size:23px;}
+			.sally-black p{
+				font-size:27px;}
+				
+		.input-box2 > h3 a{
+			font-size:21px;}
+		.sally-black p {
+    float: left;
+    font-size: 25px;
+    line-height: 35px;
+    padding: 0 20px 0 40px;
+    width: 100%;
+}
+		.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 50%;
+}
+		.gary-txt2 > li {
+    float: right;
+    font-size: 21px;
+    line-height: 40px;
+    padding: 0 40px;
+}
+		.blue-color {
+    font-size: 26px;
+}
+		.sally-black > h2{
+			font-size:29px;
+			line-height:58px;}
+			#right-colon > h3 {
+    float: right;
+    font-family: robotoregular;
+    font-size: 21px;
+    line-height: 33px;
+    margin: -30px 0 0;
+    width: 57%;
+}
+
+.top-profile2 .row-detail {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+			.top-profile2 .right-part-doctor h3 {
+    font-size: 27px;
+    margin-bottom: 0;
+}
+.top-profile2 .right-part-doctor span {
+    border: medium none;
+    font-size: 24px;
+}
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 15px;
+}
+
+.top-profile2 #left-colon {
+    font-size: 21px;
+	width:55%;
+}
+
+.top-profile2 #right-colon {
+    font-size: 21px;
+	line-height:35px;
+    margin: 0;
+    width: auto;
+}
+			.left-profile img {
+    height: 116px;
+    width: 116px;
+}
+
+.top-profile2 .left-profile{
+	width:auto;}
+	.proposal {
+    font-size: 29px;
+    padding: 21px 15px 21px 40px;
+}		
+	
+		
+		
+		
+		
+					.btn12 ul li a {
+    font-size: 27px;
+    line-height: 27px;
+}
+			
+					.log3 {
+    padding: 0 50px;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 29px;
+    text-align: left;
+    width: 100%;
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 21px;
+}
+		
+			.log2 select{
+				margin-top:0px;}
+				.make-appointment-row {
+    margin: 0 0 33px;
+}
+
+.login-section {
+    padding: 30px 0;
+}
+				.make-appointment-row label {
+       font-size: 29px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 34px;
+}
+.make-appointment-row hr {
+      width: 70%;
+}
+		
+			.selct-location ul li a {
+    font-family: roboto;
+    font-size: 26px;
+    line-height: 66px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+ }
+		
+		
+		
+		
+	input[type="button"] {
+    font-size: 26px;
+    padding: 10px;
+}
+	
+	.copyright p strong {
+     font-size: 14px;
+    margin: 10px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:13px;}
+		
+		
+input[type="button"] {
+    height: 71px;
+    line-height: 38px;
+}
+	.login-row-border {
+    float: none;
+    margin: 20px auto;
+    width: 488px;
+}
+	.submission {
+    margin: 65px 0 0;
+}
+	.submission .detail-heading {
+		padding-bottom:10px;
+    font-size:40px;
+}
+	.submission > p {
+    font-size: 26px;
+    padding: 0 10px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 32px;
+    padding: 10px 0;
+}
+	.tahnk-you h1 {
+    font-size: 104px;
+    line-height: 125px;
+    margin: 80px 0 0;
+    text-align: center;
+ 
+}
+.copyright {
+    float: left;
+    margin: 107px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+	}
+	
+	
+		@media (min-width:640px) and (max-width:767px) {
+			
+					.day-month-year {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+			.other-times-day{
+				padding: 20px 20px 0
+				}
+			.details-pateint2 .row-detail {
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+				.medical-history span {
+    font-family: robotomedium;
+    font-size: 36px;
+}
+.medical-history > p {
+    font-size: 32px;
+    padding: 15px 0 0;
+}
+			span.detail-heading {
+    color: #019096;
+    font: 43px "robotomedium";
+    margin: 0;
+}
+
+.details-pateint2 #right-colon > img {
+    width: 35px;
+}
+			
+			.make-appointment-row input[type="text"]{
+				font-size:30px;}
+			
+			.appoint-make .make-appointment-row > input {
+    font-size: 30px;
+}   
+			.left-slider-date .slider-date {
+    width: 42%;
+}
+
+.appoint-make .slider-date select {
+    font-size: 33px;
+   
+}
+.center-to {
+    font-size: 33px;
+}
+			.day-main {
+    font-size: 33px;
+}
+.actual-date{
+	font-size:33px;}
+			.check-app .check-text {
+    font-size: 30px;
+    margin-left: -37px;
+}
+			.diffrent-finder-row textarea{
+				font-size:27px;}
+			.main-box-check{
+				margin:-17px 0 0 0;}
+			
+			.checkbox-img input[type="radio"]:checked + .checklabel::after{
+				background-size:29px;}
+			.appoint-make .make-appointment-row > input {
+    font-size: 30px;
+}
+
+.diffrent-location span.or{
+	padding-bottom:0px;
+	font-size:33px;}
+			.diffrent-finder-row > label {
+    font-size: 32px;
+    line-height: 40px;
+}
+			
+			
+			
+			
+							.apppointment .slider-date select {
+    background-size: 10px auto;
+    font-size: 21px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    padding-right: 30px;
+    padding-top: 38px;
+    width: 40%;
+}
+			.black{
+				font-size:33px;}
+			.apppointment .blue{
+				font-size:33px;}
+				.apppointment > h5{
+					font-size:33px;}
+					
+					.note h3{
+						font-size:33px;}
+						.note textarea{
+							font-size:27px;}
+							.note8 h3 {
+    line-height: 100px;
+}
+			
+			
+			.note textarea{
+	font-size:27px; }
+
+			.note h3 {
+    font-family: robotomedium;
+    font-size: 33px;
+    line-height: 65px;
+}
+					.note.note4{
+				padding:0px;}
+			.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 12px auto;
+    float: right;
+    height: 38px;
+    margin: 3px 0 0;
+    width: 25px;
+}   
+		.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 32px;
+    margin: 225px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 0px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 32px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:36px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:20px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 32px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 15px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 24px;
+    line-height: 45px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 24px;
+    line-height: 45px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 32px;
+    line-height: 65px;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 27px;
+    line-height: 45px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 30px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 27px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 27px;
+    line-height: 45px;
+    margin: 0;
+}
+.sbt2 .detail-heading{
+	font-size:32px;}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:32px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 33px;
+}
+			
+			
+			
+			
+			
+			
+				.oxford li {
+    border-bottom: 1px solid #cecece;
+    font-size: 30px;
+    line-height: 73px;
+   
+}
+			.main-comment {
+    padding: 10px 31px 30px;
+}
+			.main-comment p {
+    font-size: 27px;
+}
+			.commenter {
+    font-size: 27px;
+}
+			.commenter span {
+    font: 30px "robotomedium";
+}
+			.date-comment {
+    font-size: 27px;
+}
+			.patient-comment .detail-heading {
+    font-size: 33px;
+    padding: 0 30px;
+}
+			.detail-part #right-colon > img {
+    
+    width: 30px;
+}
+			.job-content span.detail-heading {
+    display: block;
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+			.detail-part #right-colon {
+    font-size: 30px;
+}
+			.detail-part #left-colon {
+    float: left;
+    font-size: 33px;
+}
+			
+			.about-me .login-row > input {
+    font-size: 30px !important;
+    margin-top: 15px;
+}
+			.indentify-location {
+    color: #019096;
+    font: 33px "robotomedium";
+}
+			.about-me textarea {
+
+    font-family: robotoregular;
+    font-size: 30px;
+    min-height: 196px;
+
+}
+			.about-me span.detail-heading {
+    font: 33px "robotomedium";
+}
+			.profile-section{
+				padding:20px;}
+			.profile-section .right-part-doctor span {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.about-me{
+	padding:20px 0 0 0px;}
+			.profile-section .left-profile{
+				width:auto;}
+			.profile-section .right-part-doctor h3 {
+    font-size: 36px;
+	margin-bottom:5px;
+}
+			.input-box2 > h3 a{
+				font-size:23px;}
+			.sally-black p{
+				font-size:27px;}
+	.gary-txt2 > li {
+    float: right;
+    font-size: 24px;
+    line-height: 45px;
+    padding: 0 40px;
+}
+			.gray-txt {
+       width: 50%;
+}
+			.sally-black > h2{
+				font-size:33px;}
+	#right-colon > h3 {
+    float: right;
+    font-family: robotoregular;
+    font-size: 23px;
+    line-height: 33px;
+    margin: -30px 0 0;
+    width: 57%;
+}
+.top-profile2 #right-colon {
+    font-size: 23px;
+    line-height: 40px;
+    margin: 0;
+    width: auto;
+}
+
+.top-profile2 .row-detail {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+			.top-profile2 .right-part-doctor h3 {
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.top-profile2 .right-part-doctor span {
+    border: medium none;
+    font-size: 27px;
+}
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 15px;
+}
+
+.top-profile2 #left-colon {
+    font-size: 23px;
+
+	width:53%;
+}
+
+
+			.left-profile img {
+    height: 116px;
+    width: 116px;
+}
+
+.top-profile2 .left-profile{
+	padding-bottom:20px;
+	width:auto;}
+	.proposal {
+    font-size: 33px;
+    padding: 20px 15px 21px 40px;
+}		
+			
+			
+			
+					.btn12 ul li a {
+    font-size: 27px;
+    line-height: 27px;
+}
+			
+					.log3 {
+    padding: 0 50px;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 29px;
+    text-align: left;
+    width: 100%;
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 21px;
+}
+		
+			
+			
+			.log2 select{
+				margin-top:0px;}
+				.make-appointment-row {
+    margin: 0 0 33px;
+}
+
+.login-section {
+    padding: 30px 0;
+}
+				.make-appointment-row label {
+       font-size: 32px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 38px;
+}
+.make-appointment-row hr {
+      width: 70%;
+}
+			
+			
+						.selct-location ul li a {
+    font-family: roboto;
+    font-size: 30px;
+    line-height: 75px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 8% auto;
+ }
+		
+			
+			
+	input[type="button"] {
+    font-size: 32px;
+    padding: 10px;
+}
+	
+	.copyright p strong {
+     font-size: 18px;
+    margin: 10px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:17px;}
+		
+		
+input[type="button"] {
+    height: 74px;
+    line-height: 40px;
+}
+	.login-row-border {
+    float: none;
+    margin: 20px auto;
+    width: 511px;
+}
+	.submission {
+    margin: 65px 0 0;
+}
+	.submission .detail-heading {
+		padding-bottom:10px;
+    font-size:42px;
+}
+	.submission > p {
+    font-size: 32px;
+    padding: 0 10px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 33px;
+    padding: 10px 0;
+}
+	.tahnk-you h1 {
+    font-size: 109px;
+    line-height: 130px;
+    margin: 80px 0 0;
+    text-align: center;
+ 
+}
+.copyright {
+    float: left;
+    margin: 107px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+	}
+	
+		@media (min-width:768px) and (max-width:1023px) {
+			.day-month-year {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+			.other-times-day{
+				padding: 20px 20px 0
+				}
+			.diffrent-finder-row > label{
+				line-height:20px;}
+				.container125 .make-appointment-row > select{
+			font-size:35px!important;	}
+			.container125 .label-plus-select > select {
+    font-size: 39px !important;
+    text-align: left;
+}
+			.container125 .blue{
+				font-size:35px!important;}
+				.container125 .label-plus-select982 > select{
+					font-size:35px!important;
+					}
+					
+					.container125 .make-appointment-row input[type="text"]{
+						font-size:35px!important;
+						}
+			
+			
+			
+			
+			
+			.details-pateint2 .row-detail {
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+			.medical-history span {
+    font-family: robotomedium;
+    font-size: 36px;
+}
+.medical-history > p {
+    font-size: 32px;
+    padding: 15px 0 0;
+}
+			span.detail-heading {
+    color: #019096;
+    font: 43px "robotomedium";
+    margin: 0;
+}
+
+.details-pateint2 #right-colon > img {
+    width: 35px;
+}
+			
+			
+			.slider-date select.pm-time {
+    background-position: 101% center;
+    width: 33%;
+}
+			.actual-date{
+				padding-top:15px;}
+			.day-main{
+					font-size:36px;
+				padding-top:15px;}
+			.diffrent-finder-row > label{
+				padding-bottom:0;
+				padding-top:10px;}
+			.check-app{
+				padding:0px;}
+			.checkbox-img input[type="radio"]:checked + .checklabel::after{
+				background-size:29px;}
+				.appoint-make .make-appointment-row > input {
+    font-size: 36px;
+}
+
+.diffrent-location span.or{
+	font-size:39px;}
+			.diffrent-finder-row > label{
+				font-size:39px;}
+				
+				.diffrent-finder-row textarea{
+					font-size:32px;}
+					
+			.check-app .check-text {
+    font-size: 36px;
+    padding: 18px 0 0;
+}
+					
+					
+						.actual-date{
+						font-size:36px;	
+							}
+					.slider-date select{
+						font-size:36px;}
+			
+			
+			
+			
+					.apppointment .slider-date select {
+    background-size: 10px auto;
+    font-size: 31px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    float: right;
+    padding-right: 30px;
+    padding-top: 30px;
+    width: 40%;
+}
+			.black{
+				font-size:39px;}
+			.apppointment .blue{
+				font-size:39px;}
+				.apppointment > h5{
+					font-size:39px;}
+					
+					.note h3{
+						font-size:39px;}
+						.note textarea{
+							font-size:32px;}
+			
+			.note.note4{
+				padding:0px;}
+			.arrow2 {
+    background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center / 12px auto;
+    float: right;
+    height: 38px;
+    margin: 9px 0 0;
+    width: 25px;
+}   
+			.rht-cnt .black.blaog2 {
+    float: right;
+    font-size: 39px;
+    margin: 245px 0 0;
+}
+			.col-cnt .rht-cnt{
+				width:45%;}
+			.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    padding: 0 10px;
+    width: 55%;
+}
+			.left-cnt .detail-heading {
+    font-size: 39px;
+    margin: 0;
+}
+			.slider-date2 .slider-date select{
+				background-size:10px;
+				}
+			.col-cnt .label-plus-select241 > select{
+				font-size:36px;}
+			.checkbox-img .checklabel{
+				width:36px;
+				height:36px;
+				top:25px;
+				}
+			.col-cnt .checkbox-img input[type="radio"]{
+				width:29px;
+				height:29px;}
+			.col-cnt .left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after{
+				width:29px;
+				height:29px;}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 39px;
+	margin-bottom:0px;
+}
+.submit-proposal .apppointment {
+    margin: 20px 0 0;
+}
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 28px;
+    line-height: 50px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 28px;
+    line-height: 50px;
+}
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 39px;
+    line-height: 72px;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 32px;
+    line-height: 60px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 36px;
+    margin: 0;
+}
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 32px;
+    padding: 15px 0 0;
+}
+
+.medical-history > h3 {
+    font-family: robotoregular;
+    font-size: 32px;
+    line-height: 45px;
+    margin: 0;
+}
+
+.col-cnt {
+    padding: 0 20px;
+}
+
+.detail-heading.sbt2 {
+    padding: 0 20px;
+	font-size:39px;
+}
+
+.left-cnt{
+	padding:0px;}
+	
+	
+	.about-me.sbt2 {
+    padding: 30px 20px 0;
+}
+
+.left-cnt > h2 {
+    font-size: 39px;
+}
+	
+
+			.oxford li {
+    border-bottom: 1px solid #cecece;
+    font-size: 36px;
+    line-height: 90px;
+
+}
+			.main-comment {
+    color: #252525;
+    padding: 20px 55px;
+}
+			.commenter span {
+    font: 36px "robotomedium";
+}
+
+.commenter {
+    font-size: 32px;
+}
+.main-comment p {
+    font-size: 32px;
+}
+			.date-comment {
+    font-size: 32px;
+}
+		.patient-comment .detail-heading {
+    font-size: 39px;
+    padding: 0 30px;
+}
+		
+			.indentify-location {
+    color: #019096;
+    font: 39px "robotomedium";
+}
+
+.about-me .login-row > input {
+    font-size: 35px;
+    margin-top: 15px;
+}
+
+.detail-part #left-colon {
+    font-size: 39px;
+}
+
+.detail-part #right-colon {
+    font-size: 36px;
+}
+
+.job-content span.detail-heading{
+	font-size:43px;}
+			.about-me span.detail-heading {
+    color: #019096;
+
+    font: 39px "robotomedium";
+
+}
+		.about-me {
+    padding: 20px 0 0;
+}
+
+.about-me textarea {
+
+    font-size: 36px;
+    min-height: 230px;
+}
+			.profile-section .right-part-doctor h3 {
+    font-size: 42px;
+	margin-bottom:5px;
+}
+.profile-section .right-part-doctor span {
+    font-size: 36px;
+    line-height: 50px;
+}
+			.top-profile2 .left-profile {
+    padding-bottom: 15px;
+}
+			.sally-black > h2{
+		line-height:80px;
+		font-size:39px;}
+		.blue-color{
+			font-size:36px;}
+			.gary-txt2 > li {
+    float: right;
+    font-size: 28px;
+    padding: 0 40px;
+}
+
+.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 50%;
+}
+				.sally-black p{
+					font-size:32px;
+					line-height:40px;}
+			
+			
+			.proposal {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 39px;
+    padding: 21px 10px 21px 35px;
+}
+
+.left-profile img {
+    border: 5px solid #019096;
+    border-radius: 50%;
+    height: 139px;
+    width: 139px;
+}
+
+.top-profile2 .right-part-doctor h3{
+	font-size:35px;}
+.top-profile2 .right-part-doctor span {
+    border: medium none;
+    font-size: 32px;
+}
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 20px;
+}
+
+.top-profile2 #left-colon {
+    font-size: 28px;
+
+}	
+.top-profile2 #right-colon{
+	line-height:40px;
+	font-size:28px;}		
+	
+	#right-colon > h3 {
+    font-size: 25px;
+}	
+			
+			
+			
+			
+			
+			.btn12 ul li a {
+    font-size: 32px;
+    line-height: 32px;
+}
+			
+					.log3 {
+    padding: 0 50px;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 35px;
+    text-align: left;
+    width: 100%;
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 21px;
+}
+			
+			
+			.make-appointment-row {
+    margin: 0 0 64px;
+}
+
+.login-section {
+    padding: 44px 0;
+}
+				.make-appointment-row label {
+       font-size: 39px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 45px;
+}
+.make-appointment-row hr {
+      width: 52%;
+}
+.selct-location ul li a {
+    font-family: roboto;
+    font-size: 37px;
+    line-height: 90px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 6% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 6% auto;
+ }
+			
+	input[type="button"] {
+    font-size: 35px;
+    padding: 10px;
+}
+	
+	.copyright p strong {
+     font-size: 22px;
+    margin: 10px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:21px;}
+		
+		
+input[type="button"] {
+    height: 74px;
+    line-height: 40px;
+}
+	.login-row-border {
+    float: none;
+    margin: 20px auto;
+    width: 657px;
+}
+	.submission {
+    margin: 105px 0 0;
+}
+	.submission .detail-heading {
+    font-size: 53px;
+    padding-bottom: 10px;
+}
+.submission > p {
+    font-size: 35px;
+    padding: 0 40px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 43px;
+    padding: 25px 0;
+}
+	.tahnk-you h1 {
+    font-size: 140px;
+    line-height: 161px;
+    margin: 136px 0 0;
+    text-align: center;
+ 
+}
+.copyright {
+    float: left;
+    margin: 200px 0 0;
+    padding: 0 20px;
+    width: 100%;
+} 
+	}
+	
+	
+		@media (min-width:1024px) and (max-width:1079px) {
+			.container125 .make-appointment-row > select{
+			font-size:47px!important;	}
+			.container125 .label-plus-select > select {
+    font-size: 52px !important;
+    text-align: left;
+}
+			.container125 .blue{
+				font-size:47px!important;}
+				.container125 .label-plus-select982 > select{
+					font-size:47px!important;
+					}
+					
+					.container125 .make-appointment-row input[type="text"]{
+						font-size:47px!important;
+						}
+			
+			.day-month-year {
+    font-size: 47px;
+    padding-bottom: 10px;
+}
+			.details-pateint2 #left-colon {
+    font-size: 52px;
+}
+			.details-pateint2 textarea {
+    min-height: 200px;
+}
+			.details-pateint2 .right-part-doctor > span {
+    line-height: 20px!important;
+}
+			
+			
+			.details-pateint2 #right-colon {
+    font-size: 52px;
+}
+
+.detail-heading {
+    font-size: 52px !important;
+}
+.medical-history span {
+    font-family: robotomedium;
+    font-size: 47px;
+}
+.medical-history > p {
+    font-size: 43px;
+    padding: 20px 0 0;
+}
+			
+			
+			
+			
+			.appoint-make .make-appointment-row > input {
+    font-size: 47px;
+}
+
+.diffrent-location span.or{
+	font-size:52px;}
+			.diffrent-finder-row > label{
+				font-size:52px;}
+				
+				.diffrent-finder-row textarea{
+					font-size:42px;}
+					
+					.check-app .check-text{
+						font-size:47px;}
+					
+					.day-main{
+						font-size:52px;}
+						
+						.actual-date{
+						font-size:52px;	
+							}
+					.slider-date select{
+						font-size:52px;}
+					
+			
+			
+			.apppointment .slider-date select {
+    font-size: 38px;
+}
+			.black{
+				font-size:52px;}
+			.apppointment .blue{
+				font-size:52px;}
+				.apppointment > h5{
+					font-size:52px;}
+					
+					.note h3{
+						font-size:52px;}
+						.note textarea{
+							font-size:43px;}
+			
+			
+			.col-cnt .rht-cnt {
+    float: right;
+    width: 45%;
+}
+.col-cnt .left-cnt {
+    float: left;
+    margin: 0;
+    width: 55%;
+}
+			.label-plus-select241 select{
+				font-size:47px;}
+			.detail-heading.sbt2 {
+    font-size: 52px;
+
+}
+			.about-me.sbt2 {
+    padding: 20px 30px;
+}
+			.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 52px;
+}
+
+.projects ul li {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 38px;
+    line-height: 58px;
+}
+
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 38px;
+    line-height: 58px;
+}
+
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 53px;
+    line-height: 101px;
+    margin: 0;
+}
+
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 43px;
+    line-height: 63px;
+    margin: 0;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 47px;
+    margin: 0;
+}
+
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 42px;
+    padding: 10px 0 0;
+}
+
+
+
+
+			.oxford li {
+    border-bottom: 1px solid #cecece;
+    line-height: 118px;
+	font-size:47px;
+    
+}
+			.date-comment {
+    color: #252525;
+    font-size: 43px;
+}
+
+.commenter {
+    color: #019096;
+    font-size: 42px;
+    padding: 2px 0 6px;
+}
+
+.commenter span {
+    font: 47px "robotomedium";
+}
+
+.main-comment p {
+    font-size: 42px;
+}
+			.detail-part #left-colon {
+    font-size: 52px;
+}
+
+ 		.detail-part #right-colon{
+	   font-size:47px;
+	 }
+			
+			
+			
+			.profile-section .right-part-doctor h3 {
+    font-size: 57px;
+}
+
+.profile-section .right-part-doctor span {
+    font-size: 47px;
+    line-height: 70px;
+}
+
+.about-me span.detail-heading {
+    color: #019096;
+    font: 52px "robotomedium";
+}
+.about-me textarea{
+	font-size:47px;}
+	.indentify-location {
+    color: #019096;
+    font: 52px "robotomedium";
+}
+.about-me .login-row > input {
+    font-size: 47px;
+    margin-top: 15px;
+}		
+			
+			
+			
+			
+			.sally-black > h2{
+				font-size:52px;}
+				.blue-color{
+					font-size:47px;}
+				.gary-txt2 > li{
+					font-size:37px;}
+					
+					.sally-black p {
+    float: left;
+    font-size: 43px;}
+	
+	
+				
+				
+				
+			
+	.proposal {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 52px;
+    padding: 31px 0 28px 40px;
+}
+
+.top-profile2 .right-part-doctor h3 {
+	font-size:47px;
+    border: medium none;
+}			
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 25px;
+}
+.top-profile2 .right-part-doctor span{
+	font-size:42px;}
+	
+	
+	
+	.top-profile2 #left-colon {
+    font-size: 38px;
+
+}
+		.top-profile2 #right-colon{
+			font-size:38px;}
+			
+	#right-colon > h3{
+		font-size:34px;}
+		
+		.top-profile2 .left-profile img {
+    border: 5px solid #019096;
+    border-radius: 50%;
+    height: 185px;
+    width: 185px;
+}
+		
+						
+			
+			
+			.log3 {
+    padding: 0 50px;
+}
+.log3 {
+    margin: 44px 0 0;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 47px;
+    text-align: left;
+    width: 100%;
+}
+
+.btn12 ul li a {
+   
+    font-size: 43px;
+    line-height: 43px;
+
+}
+
+.log3 .make-appointment-row {
+    margin: 0 0 55px;
+}
+
+
+
+			.make-appointment-row label {
+       font-size: 52px;
+       text-align: center;
+    width: 100%;
+}
+
+.make-appointment.patient-detail select{
+       font-size: 60px;
+}
+.make-appointment-row hr {
+      width: 68%;
+}
+			.selct-location ul li a {
+    font-family: roboto;
+    font-size: 47px;
+    line-height: 120px;
+
+}
+	
+	.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 6% auto;
+}
+
+.selct-location ul li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center / 6% auto;
+ }
+			
+	input[type="button"] {
+    font-size: 47px;
+    padding: 10px;
+}
+	
+	.copyright p strong {
+     font-size: 29px;
+    margin: 20px 0 20px;
+ 
+}
+	.copyright p{
+		font-size:28px;}
+		
+		
+input[type="button"] {
+    height: 128px;
+    line-height: 110px;
+}
+	.login-row-border {
+    float: none;
+    margin: 35px auto;
+    width: 875px;
+}
+	.submission {
+    margin: 140px 0 0;
+}
+	.submission .detail-heading {
+    font-size: 71px;
+    padding-bottom: 10px;
+}
+.submission > p {
+    font-size: 47px;
+    padding: 0 40px;
+    text-align: center;
+}
+	.main-header h2 {
+    font-size: 57px;
+    padding: 25px 0;
+}
+	.tahnk-you h1 {
+    font-size: 187px;
+    line-height: 210px;
+    margin: 173px 0 0;
+    text-align: center;
+ 
+}
+.copyright {
+    float: left;
+    margin: 308px 0 0;
+    padding: 0 20px;
+    width: 100%;
+}
+	}

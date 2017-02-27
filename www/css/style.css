@@ -1,0 +1,1004 @@
+@charset "utf-8";
+/* CSS Document */
+/* --------------------< Global Style >-------------------- */
+@import url('fonts.css');
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+a, abbr, acronym, address, applet, article, aside, audio, b, blockquote, big, body, center, canvas, caption, cite, code, command, datalist, dd, del, details, dfn, dl, div, dt, em, embed, fieldset, figcaption, figure, font, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, keygen, label, legend, li, meter, nav, object, ol, output, p, pre, progress, q, s, samp, section, small, span, source, strike, strong, sub, sup, table, tbody, tfoot, thead, th, tr, tdvideo, tt, u, ul, var { margin: 0; padding: 0; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+table, table td { padding: 0; border: none; border-collapse: collapse; }
+* { border: none; margin: 0; padding: 0; }
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video { display: block; }
+mark, rp, rt, ruby, summary, time { display: inline }
+.clearfix { clear: both; }
+input[type="text"]:focus { outline:none; }
+
+.translation_content a:hover, .translation_content a:focus { color: #ffffff; }
+input { -webkit-box-shadow: none; -webkit-border-radius: 0; -webkit-box-shadow: inset none; -webkit-appearance: none; }
+body { padding: 0; margin: 0; width: 100%; height: 100%; background: #ffffff; font: 40px 'robotoregular'; color: #252525; }
+a:hover { text-decoration: none; outline: none; }
+a:focus { text-decoration: none; outline: none; }
+.navbar-collapse { padding: 0; }
+.container { padding: 0; width: 100%; max-width: 1080px; }
+.row { margin: 0; }
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 { padding: 0; }
+.btn:focus, .btn:active:focus, .btn.active:focus { outline: none; outline-offset: 0; }
+.btn:active, .btn.active { box-shadow: none; }
+.bootstrap-select .btn:focus { outline: none; outline-offset: 0; }
+.btn-group > .btn:focus, .btn-group-vertical > .btn:focus { outline: none; outline-offset: 0; }
+.bootstrap-select .btn:focus { }
+.button:hover { color: #ffffff; }
+.container-fluid { padding: 0; }
+.btn-all:hover, .btn-all:focus { color: #ffffff; }
+h1 { color: #019096; font: 60px "robotomedium"; text-transform: uppercase; }
+::-webkit-input-placeholder {
+ color:#494949;
+opacity:1;
+}
+input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus { outline: none; }
+
+:-moz-placeholder { /* Firefox 18- */
+ color: #494949;
+opacity:1;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+ color:#494949;
+opacity:1;
+}
+html { height: 100% !important; }
+
+:-ms-input-placeholder {
+ color: #494949;
+opacity:1;
+}
+select:focus{
+	outline:none;}
+	
+select, option{
+	outline:none;}	
+img { max-width: 100%; }
+/* --------------------< sign-up >-------------------- */
+.global-sign { background: url(../images/sign-bg.jpg) repeat-x; }
+.sign-up { margin: 0 auto; padding-bottom: 30px; }
+.top-logo { margin: 0 auto; padding: 11% 0 0; }
+.top-logo span { clear: both; color: #000000; display: block; font: 54px/65px "robotoitalic"; text-align: center; }
+.doctor-login-section h1 { text-align: center; }
+.doctor-login-section { padding: 11% 0 0; }
+.login-row input[type="text"], .login-row input[type="password"] { background: transparent none repeat scroll 0 0; border-bottom: 2px solid #231f60; margin-bottom: 70px; width: 100%; padding-bottom: 4px; font-size: 40px; }
+.login-section { padding: 60px 0; }
+input[type="button"] { margin-bottom: 25px; background: #019096 none repeat scroll 0 0; color: #ffffff; font-size: 50px; padding: 0px 10px; text-transform: uppercase; width: 100%; height:137px; line-height:137px; }
+.top-logo a { display: block; text-align: center; }
+/* --------------------< Doctor-Profile >-------------------- */
+
+.main-header { background: #019096 none repeat scroll 0 0; color: #ffffff; }
+.main-header h2 { color: #ffffff; font-family: 'Roboto', sans-serif; padding: 30px 0; text-align: center; text-transform: uppercase; font-size: 60px; }
+.left-profile img { border: 5px solid #019096; border-radius: 50%; height:195px; width: 195px; }
+.profile-section { padding: 40px 0 0; }
+.right-part-doctor { float: left; padding-top: 60px; width: 60%; }
+.left-profile { float: left; padding-right: 40px; }
+.right-part-doctor h3 { border-bottom: 2px solid #252525; color: #019096; line-height: 63px; margin-bottom: 20px; font: 50px "robotomedium"; width: 100%; }
+.profile-section { float: left; padding: 40px; width: 100%; }
+.about-me { clear: both; padding: 40px 0 0; }
+.about-me p { background: #f5f5f5 none repeat scroll 0 0; border: 2px solid #019096; font-size: 50px; line-height: 60px; margin: 14px 0 0; padding: 10px 20px 20px; margin: 14px 0 40px; }
+span.detail-heading { color: #019096; font: 55px "robotomedium"; }
+.right-part-doctor span { font-size: 45px; color: #252525; border-bottom: 2px solid #252525; line-height: 63px; display: block; width: 100%; }
+.indentity-location { border-bottom: 2px solid #252525; margin-bottom: 70px; padding-bottom: 10px; padding-top: 40px; }
+.about-me input[type="button"] { display: table; margin: 0 auto; width: 95%; }
+#left-colon, #right-colon { display: table-cell; }
+.detail-part { border-top: 2px solid #252525; clear: both; float: left; margin-top: 30px; padding: 50px 30px 30px; width: 100%; }
+.row-detail { color: #252525; display: block; float: left; font-size: 55px; margin-bottom: 30px; width: 100%; }
+.row-detail #left-colon { float: left; }
+.job-content { clear: both; padding: 20px 0; width: 100%; }
+.job-content span.detail-heading { display: block; padding-bottom: 35px; }
+.patient-comment { clear: both; }
+.row-detail #right-colon { float: right; }
+.comment-box { border-top: 4px solid #019096; margin-top: 10px; border-bottom: 4px solid #019096; }
+.patient-comment .detail-heading { padding: 0 30px; }
+.main-comment { color: #252525; padding: 30px 60px; }
+.date-comment { color: #252525; font-size: 45px; }
+.commenter span { font: 50px "robotomedium"; }
+.main-comment p { font-size: 45px; }
+.commenter { color: #019096; font-size: 45px; padding: 2px 0 6px; }
+.patient-comment > input[type="button"] { display: table; margin: 50px auto; width: 88%; }
+.main-comment:first-child { border-bottom: 2px solid #cecece; }
+<!--
+sopen assinment class start here-->  .apppointment { float: left; margin: 25px 0 0; width: 100%; }
+.apppointment ul { float: left; list-style: outside none none; margin: 0; padding: 0; width: 100%; }
+.blue { color: #019096; float: left; font-family: robotoregular; font-size: 55px; padding-left: 30px; margin: 0; padding-bottom: 20px; width: 48%; }
+.black { padding-right: 30px; float: right; font-size: 55px; margin: 0; width: 52%; }
+.arrow2 { background: rgba(0, 0, 0, 0) url("../images/pick.png") no-repeat scroll right center; float: right; font-size:0px; height: 38px; margin: 20px 0 0; width: 38px; }
+.apppointment > h2 { border-bottom: 4px solid #019096; color: #019096; float: left; font-size: 55px; line-height: 100px; margin: 0; padding: 0 0 0 30px; width: 100%; }
+.apppointment { float: left; margin: 25px 0 0; width: 100%; }
+.projects { float: left; margin: 0; padding: 0 30px; }
+.projects > ul { margin: 30px 0 0; }
+.projects2 { float: right; margin: 30px 0 0; padding-right: 30px; text-align: right; }
+.border-gray { background: #f5f5f5 none repeat scroll 0 0; border-bottom: 1px solid #cecece; float: left; padding: 0 0 20px; width: 100%; }
+.sally {
+      color: #019096 !important;
+    font-family: robotomedium!important;
+}
+.border-white { background: #fff; border-bottom: 1px solid #cecece; width: 100%; padding-bottom: 20px; float: left; }
+.projects ul li {
+    color: #019096;
+    float: left;
+    font-family: robotomedium;
+    font-size: 40px;
+    line-height: 60px;
+    width: 100%;
+}
+
+.projects ul li span {
+    float: right;
+    padding: 0 0 0 7px;
+     color: #252525;
+    text-align: right;
+    width: 48%;
+}
+.projects h2 {
+    float: left;
+    font-size: 100%;
+    width: 48%;
+    margin:2px 0 0 0;
+}
+.projects2 li {
+    font-family: robotoregular;
+    font-size: 40px;
+    line-height: 60px;
+}
+.border-gray-txt { background: #f5f5f5 none repeat scroll 0 0; border-bottom: 4px solid #019096; float: left; padding: 0 0 20px; width: 100%; }
+.login-row-border {
+    float: none;
+    margin: 35px auto;
+    width: 924px;
+}
+<!--pen assinment class end here-->
+<!--Selct Location class start here--> 
+.selct-location ul {
+ list-style: outside none none;
+ margin: 50px 0 0;
+ padding: 0;
+}
+.selct-location ul { list-style: outside none none; margin: 0px 0 0; padding: 0; }
+.selct-location ul li { line-height: 65px; padding: 0 30px; }
+.arrow23 { float: right; background: url(../images/check-box.png) right no-repeat; width: 55px; margin: 10px 0 0 0; height: 42px; }
+.note { padding: 0 30px; }
+.apppointment > h5 { border-bottom: 1px solid #cecece; border-top: 1px solid #cecece; color: #019096; float: left; font-size: 55px; line-height: 100px; margin: 0; padding: 0 0 0 30px; width: 100%; }
+.note h3 { color: #019096; float: left; font-size: 55px; line-height: 100px; margin: 0; width: 100%; }
+.dateselector-container.dateselector-default { float: right; }
+.dateselector-default select { background-color: #fff; border: 1px solid #ddd; border-radius: 3px; box-shadow: none; box-sizing: border-box; height: 36px; margin-bottom: 0; padding: 6px 10px; }
+.dateselector-default select:not(:last-child) { margin-right: 3px; }
+.dateselector-default .dateselector-year, .dateselector-default .dateselector-day, .dateselector-default .dateselector-hours, .dateselector-default .dateselector-minutes, .dateselector-default .dateselector-seconds { width: 80px; }
+.dateselector-default .dateselector-month { width: 120px; }
+.dateselector-bootstrap .dropdown { display: inline-block; }
+.dateselector-bootstrap .dropdown:not(:last-child) { margin-right: 3px; }
+.dateselector-bootstrap .dropdown .caret { margin-left: 5px; }
+.dateselector-foundation .dateselector-year, .dateselector-foundation .dateselector-month, .dateselector-foundation .dateselector-day, .dateselector-foundation .dateselector-hours, .dateselector-foundation .dateselector-minutes, .dateselector-foundation .dateselector-seconds { display: inline-block; margin-bottom: 0; }
+.dateselector-container { margin-bottom: 15px; }
+.dateselector-default select { -moz-appearance: none !important; background-color: #fafafa; background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMTJweCIgeT0iMHB4IiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIzcHgiIHZpZXdCb3g9IjAgMCA2IDMiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDYgMyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBvbHlnb24gcG9pbnRzPSI1Ljk5MiwwIDIuOTkyLDMgLTAuMDA4LDAgIi8+PC9zdmc+"); background-position: 100% center; background-repeat: no-repeat; border-color: #ccc; border-radius: 0; border-style: solid; border-width: 1px; color: rgba(0, 0, 0, 0.75); font-family: inherit; font-size: 15px; height: 4.313rem; line-height: normal; padding: 0.5rem; }
+.note textarea { border: 1px solid #019096; width: 100%; height: 500px; float: left; background: #f5f5f5; padding: 10px; margin-bottom:40px; font-size:45px; }
+.indentify-location2 { float: right; }
+.detail-part2 { clear: both; float: left; margin-top: 0px; padding: 0px 30px 30px; width: 100%; }
+.medical-history { background: #f5f5f5 none repeat scroll 0 0; border-bottom: 4px solid #019096; border-top: 4px solid #019096; float: left; margin-top: 50px; padding: 40px 60px; width: 100%; }
+.medical-history hr { border-bottom: 1px solid #cecece; }
+.medical-history > h2 {
+    font-family: robotoregular;
+    font-size: 45px;
+    line-height: 65px;
+    margin: 0;
+}
+.medical-history > h3 { font-family: robotoregular; font-size: 45px; line-height: 45px; margin: 0; }
+.oxford p { float: right; }
+.apppointment hr { border-top: 4px solid #019096 !important; float: left; margin: 0; width: 100%; }
+.patient-history { float: left; margin: 0; padding: 0 30px; width: 100%; }
+.patient-history h2 {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 55px;
+    line-height: 104px;
+    margin: 0;
+}
+.patient-history { border-top: 4px solid #019096; float: left; margin: 0; padding: 0 30px; width: 100%; }
+.medical-history.text1 { margin-top: 0; }
+.circle-green { background: url(../images/nav-cicle.png) left no-repeat; width: 40px; float: left; margin: 0 10px 0 0; height: 40px; }
+.circle-green2 { background: url(../images/nav-circle2.png) left no-repeat; width: 40px; float: left; margin: 0 10px 0 0; height: 40px; }
+.left-cnt { float: left; margin: 0; width: 60%; }
+.col-cnt { float: left; margin: 35px 0 0; width: 100%; }
+.rht-cnt { float: right; width: 50%; }
+.left-cnt > h2 { float: left; font-size: 52px; line-height: 45px; margin: 0; padding: 0 0 40px; width: 100%; }
+.dateselector-container.dateselector-default.cicle2 { float: right; margin: 0 -80px 0 17px; width: 100%; }
+.black.blaog2 { float: right; margin: 225px 0 0; }
+.note.note4 { padding: 0; }
+.login-row select { background: rgba(0, 0, 0, 0) none repeat scroll 0 0; margin: 0 0 20px; padding: 0 10px; width: 100%; }
+.doctor-login-section h2 { color: #019096; font-size: 38px; margin: 20px 0 0; padding: 0; text-align: left; }
+
+.log2 .detail-heading { float: left; width: 100%; }
+.log2 select { margin: 20px 0 30px; width: 100%; }
+.copyright { float: left; margin: 286px 0 10px; width: 100%; }
+.copyright p { font-size: 30px; font-style: italic; text-align: center; font-family: 'Roboto', sans-serif; }
+.tahnk-you h1 {
+    font-size: 197px;
+    margin: 171px 0 0;
+	line-height:236px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.submission > p { text-align: center; }
+.submission span { float: left; text-align: center; width: 100%; }
+.log2 select {
+    border: medium none !important;
+}
+/* --------------------< Make-Appointment >-------------------- */
+.btn12 ul li{
+background: #019096 none repeat scroll 0 0;
+    color: #ffffff;
+    margin-bottom: 23px;
+	line-height:50px;
+    padding: 20px 10px;
+    text-transform: uppercase;
+	text-align:center;
+    width: 100%;}
+	.btn12{
+		width:100%;
+		float:left;}
+	.btn12 ul{
+		margin:0px;
+		padding:0px;
+		list-style:none;}
+		.btn12 ul li a {
+    color: #fff;
+    font-family: robotoregular;
+    font-size: 48px;
+    padding: 0;
+	line-height:48px;
+    text-align: center;
+}
+
+.make-appointment-row label { color: #019096; float: left; font-family: "robotomedium"; font-size: 55px; font-weight: normal; margin: 0; padding-bottom: 15px; width: 100%; text-align:center; }
+.make-appointment-row {
+    margin: 0 0 94px;
+}
+.make-appointment { padding: 0px 0 0; }
+.make-appointment-row input[type="text"] { border-bottom: 2px solid #019096;  font-family: robotoregular; clear: both; display: block; padding-bottom: 5px; font-size: 50px; margin-bottom: 20px; width: 100%; }
+.checkbox-img { display: table; float: left; position: relative; }
+.checkbox-img input[type="checkbox"] { cursor: pointer; height: 50px; left: 2px; margin: 0; opacity: 0; position: relative; top: 10px; width: 50px; z-index: 2; }
+.checkbox-img input[type="checkbox"]:checked + .checklabel::after { background: url(../images/check-box-img.png) no-repeat; bottom: 20%; content: " "; display: block; height: 42px; left: 1px; position: absolute; top: 1px; width: 43px; }
+.checkbox-img .checklabel { background: #f5f5f5 none repeat scroll 0 0; border: 2px solid #019096; display: block; height: 50px; left: 2px; padding: 0; position: absolute; top: 10px; transition: all 0.7s ease 0s; width: 50px; z-index: 1; }
+.diffrent-location span.or { color: #019096; float: left; font-family: "robotomedium"; font-size: 55px; font-weight: normal; margin: 0; padding-bottom: 15px; width: auto; }
+.diffrent-location { padding: 24px 40px; }
+.diffrent-finder-row > label { color: #019096; float: left; font-family: "robotomedium"; font-size: 54px; font-weight: normal; margin: 0; line-height: 60px; padding-bottom: 6px; width: auto; float: left; }
+.main-box-check { float: right; }
+.different-finder { clear: both; }
+.diffrent-finder-row textarea { background: #f5f5f5 none repeat scroll 0 0; border: 2px solid #019096; font-size: 45px; height: 238px; margin-top: 30px; padding: 5px 10px; width: 100%; }
+.diffrent-finder-row { clear: both; padding: 30px 0; }
+.check-app .check-text { color: #333333; float: left; font-size: 50px; padding-left: 25px; }
+.check-app { clear: both; display: table; padding: 30px 0; width: 100%; }
+.check-app .main-box-check { float: left; }
+.day-main { display: block; float: left; font-family: "robotomedium"; font-size: 55px; padding-left: 25px; color: #009999; }
+.other-times-day .main-box-check { float: left; }
+.actual-date { float: left; font-family: "robotomedium"; font-size: 55px; padding: 0 0 0 100px; }
+.other-times-day { background: #f5f5f5 none repeat scroll 0 0; border-bottom: 2px solid #cccccc; border-top: 2px solid #cccccc; display: table; padding: 20px 40px 0; width: 100%; }
+.diffrent-location { border-bottom: 2px solid #009999; padding: 24px 20px; }
+.slider-date select { float: left; -webkit-appearance: none; -moz-appearance: none; -ms-appearance: none; -o-appearance: none; background: url(../images/arrow-down.png) no-repeat; background-position: right center; float: left; margin-left: 30px; width: 25%; font-size: 55px; }
+.center-to { float: left; }
+.left-slider-date { clear: both; display: table; padding: 21px 0 21px 78px; width: 100%; }
+.slider-date select:first-child { margin-left: 0; }
+.left-slider-date .slider-date { float: left; width: 42%; }
+.center-to { color: #009999; float: left; font-family: "robotomedium"; font-size: 55px; line-height: 43px; padding: 12px 30px 0 25px; }
+.slider-date select.pm-time { background-position: 101% center; width: 30%; }
+.checkbox-img { display: table; float: left; position: relative; }
+.checkbox-img input[type="radio"] { cursor: pointer; height: 50px; left: 2px; margin: 0; opacity: 0; position: relative; top: 10px; width: 50px; z-index: 2; }
+.checkbox-img input[type="radio"]:checked + .checklabel::after { background: url(../images/check-box-img.png) no-repeat; bottom: 20%; content: " "; display: block; height: 42px; left: 1px; position: absolute; top: 1px; width: 43px; }
+.checkbox-img .checklabel { background: #f5f5f5 none repeat scroll 0 0; border: 2px solid #019096; display: block; height: 50px; left: 2px; padding: 0; position: absolute; top: 10px; transition: all 0.7s ease 0s; width: 50px; z-index: 1; }
+.main-other-part { border-bottom: 2px solid #009999; }
+.bottom-btn-are {
+    padding: 40px 0 20px;
+}
+.bottom-btn-are > span {
+    color: #000000;
+    display: block; padding: 20px 0 0;
+    font-size: 30px;
+    text-align: center; font-family:'robotoitalic';
+}
+.main-slogan {
+    font-family: "robotoitalic";
+    font-size: 32px;
+    font-weight: bold;
+    padding: 30px 0;
+    text-align: center;
+}
+.make-appointment.patient-detail select { /*background:url(../images/arrow-down.png) no-repeat;*/ text-align:center; background-position:right center;  -webkit-appearance: none; -moz-appearance: none; -ms-appearance: none; -o-appearance: none;  border-bottom: 2px solid #019096;
+    clear: both;
+    padding-bottom: 5px;
+    width: 100%; font-size:64px;margin-bottom: 20px;}
+.make-appointment.patient-detail .left-slider-date.new-make-profile select {
+    clear: none;
+    float: left;
+    margin-left: 0;
+    width: 89%;
+}
+.day-month-year {
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.make-appointment.patient-detail .left-slider-date.new-make-profile .label-plus-select:first-child select:first-child {
+    margin-left: 0;
+}
+.label-plus-select {
+    float: left;
+    width: 33.33%;
+}
+.left-slider-date.new-make-profile .slider-date {
+    width: 100%;
+}
+.left-slider-date.new-make-profile {
+    padding-left: 0;
+}	
+.patient-pro .check-app {padding: 30px 0 0;}
+.diffrent-location.patient-pro {
+    padding-top: 0;
+}
+.patient-pro .checkbox-img .checklabel { border-radius:50px; width:40px; height:40px; }
+.patient-pro .checkbox-img input[type="radio"]:checked + .checklabel::after { background:#009999; border-radius:50px;height: 30px;top: 3px;left: 3px;
+    width: 30px;}
+	
+	/*Appoint ment Proposal calss start here*/
+	.rht-cnt .black.blaog2 {
+    float: right;
+    margin: 238px 0 0;
+}
+.proposal {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 55px;
+    padding: 38px 0 21px 40px;
+}
+
+.top-profile2 .right-part-doctor h3 {
+    border: medium none;
+}
+
+.top-profile2 .right-part-doctor span{
+	 border: medium none;
+	}
+	.top-profile2 {
+		width:100%;
+		padding:40px;
+		  font-family: robotomedium;
+		float:left;
+		background:#f5f5f5;
+		border-top:4px solid #019096;}
+	
+	.top-profile2 #left-colon {
+    float: left;
+    font-size: 40px;
+    margin: 0;
+	  font-family: robotomedium;
+	color: #019096;
+    width: 52%;
+}
+.top-profile2 #right-colon {
+    font-family: robotoregular;
+    font-size: 40px;
+    line-height: 54px;
+    margin: 0;
+    text-align: right;
+    width: 48%;
+}
+
+.top-profile2 .left-profile {
+
+    padding-bottom: 40px;
+
+}
+.top-profile3 .top-profile2 {
+    border-bottom: 4px solid #019096;
+    border-top: 2px solid #cecece;
+}
+
+
+
+.label-plus-select241 select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    border: medium none;
+    clear: both;
+    float: left;
+    font-size: 50px;
+    height: 65px;
+    margin-bottom: 5px;
+    padding: 0 30px;
+    width: 100%;
+    background-repeat:no-repeat;
+
+}
+
+.left-cnt .main-box-check {
+    float: left;
+    margin: -18px 30px 0 0;
+}
+
+.left-cnt .checkbox-img input[type="radio"]:checked + .checklabel::after {
+    background: #019096 none repeat scroll 0 0;
+    border-radius: 50px;
+    bottom: 20%;
+    content: " ";
+    display: block;
+    height: 44px;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    width: 43px;
+}
+
+.left-cnt .checkbox-img .checklabel{
+	border-radius:50px;}
+	
+	.slider-date2 {
+    float: left;
+    width: 100%;
+}
+
+.slider-date2 .label-plus-select {
+    float: left;
+    width: 100%;
+}
+
+.slider-date2 .slider-date select {
+    -moz-appearance: none;
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    color: #777;
+    float: left;
+    font-size: 43px;
+    margin-left: 8px;
+    width: 23%;
+}
+/*Appoint ment Proposal class end here*/
+
+/*Current Status class start here*/
+.sally-black {
+    float: left;
+    width: 100%;
+}
+
+.sally-black > h2 {
+    border-bottom: 4px solid #019096;
+    border-top: 4px solid #019096;
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 55px;
+    line-height: 110px;
+    padding: 0 40px;
+}
+
+.gray-txt {
+    float: left;
+    padding: 0 40px;
+    width: 60%;
+}
+
+.sally-black p {
+    float: left;
+    font-size: 45px;
+    line-height: 65px;
+    padding: 0 40px;
+    width: 100%;
+}
+
+.blue-color {
+    color: #019096;
+    font-family: robotomedium;
+    font-size: 50px;
+    margin: 0;
+}
+
+.gray-cnt {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-bottom: 2px solid #cecece;
+    float: left;
+    padding: 28px 0;
+    width: 100%;
+}
+
+.gray-cnt2 {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 2px solid #cecece;
+    float: left;
+    padding: 28px 0;
+    width: 100%;
+}
+.gary-txt2 > li {
+    font-size: 40px;
+    line-height: 70px;
+}
+
+.input-box2 > input {
+    border: 1px solid #c8c8cd;
+    border-radius: 10px;
+    font-size: 15px;
+    height: 65px;
+    line-height: 65px;
+    padding: 0 10px;
+    width: 80%;
+}
+
+.input-box2 {
+    padding: 0 40px;
+}
+
+.input-box2 > h3 {
+    background: #019096 none repeat scroll 0 0;
+    float: right;
+    height: 64px;
+    margin: 4px 0 0;
+    text-align: center;
+    width: 19%;
+}
+
+.input-box2 > h3 a {
+    color: #fff;
+    font-size: 40px;
+    line-height: 65px;
+}
+
+.apppointment .left-slider-date.new-make-profile {
+    width: 40%;
+	float:right;
+	padding-right:30px;
+}
+
+.apppointment select {
+    color: #777;
+}
+
+.apppointment .slider-date select {
+    width: 100%;
+}
+
+.apppointment .label-plus-select {
+    float: left;
+    width: 25%;
+}
+
+.apppointment .slider-date select{
+	font-size:40px;}
+	
+	.login-row-border2 {
+    float: left;
+    margin: 10px 0 0;
+    padding: 50px;
+    width: 100%;
+}
+.login-section.log123 {
+    padding: 0 0;
+}
+
+
+.selct-location ul li a {
+	border-bottom:1px solid #cecece;
+	    float: left;
+    width: 100%;
+	line-height:124px;
+	font-size:50px;
+    color: #252525;
+}
+
+.selct-location ul li a:hover {
+    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center;
+    color: #019096;
+		border-bottom:1px solid #cecece;
+    float: left;
+    width: 100%;
+}
+
+.selct-location ul li a:focus{
+	    background: rgba(0, 0, 0, 0) url("../images/check-box.png") no-repeat scroll right center;
+    color: #019096;
+		border-bottom:1px solid #cecece;
+    float: left;
+    width: 100%;
+}
+
+
+.submission {
+    margin: 138px 0 0 0;
+}
+
+.submission .detail-heading {
+    font-size: 75px;
+}
+
+.submission > p {
+ 
+    font-size: 51px;
+}
+
+.log3 .make-appointment-row{
+	margin:0 0 32px;}
+
+
+.copyright p strong {
+    color: #000 !important;
+    float: left;
+    font-family: roboto;
+    font-size: 32px;
+    margin: 23px 0 0;
+    text-align: center;
+    width: 100%;
+}
+
+.make-appointment-row hr {
+    border-color: #000;
+    margin: auto;
+    padding: 0;
+    width: 80%;
+}
+
+.log3 .make-appointment-row label {
+    text-align: left;
+}
+
+.log3 .make-appointment.patient-detail select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+	font-size:50px;
+    text-align: left;
+    width: 100%;
+}
+.log3 {
+    margin: 45px 0 0;
+}
+.top-profile2 .row-detail {
+    margin-bottom: 7px;
+    padding-bottom: 0;
+}
+
+.top-profile2 .right-part-doctor h3 {
+    margin-bottom: 0;
+}
+
+.top-profile2 .right-part-doctor {
+    margin: 0;
+    padding-top: 30px;
+}
+
+#right-colon > h3 {
+    font-size: 36px;
+    margin: 10px 0 0;
+}
+
+.bottom-btn-are .copyright {
+    margin-top: 0;
+}
+
+.about-me textarea {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    overflow: hidden;
+    resize: none;
+    width: 100% !important;
+}
+
+.about-me textarea {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    font-family: robotoregular;
+    font-size: 50px;
+    min-height: 290px;
+    overflow: hidden;
+    resize: none;
+    width: 100% !important;
+}
+
+.indentify-location {
+    color: #019096;
+    font: 55px "robotomedium";
+}
+
+.about-me .login-section {
+    padding: 0;
+}
+
+.profile-section .right-part-doctor h3 {
+    font-size: 60px;
+ 
+}
+
+.profile-section .right-part-doctor span {
+    font-size: 50px;
+	line-height:20px;
+
+}
+
+.profile-section .right-part-doctor {
+	padding-top:7px;
+
+}
+
+.about-me .login-row > input {
+    font-size: 50px;
+    margin-top: 15px;
+	padding:0!important;  
+}
+
+.oxford li {
+    border-bottom: 1px solid #cecece;
+    line-height: 131px;
+	font-size:50px;
+    padding: 0 20px;
+}
+
+.submit-proposal .blue {
+    font-family: robotomedium;
+    font-size: 55px;
+}
+
+.medical-history.text1 span {
+    font-family: robotomedium;
+    font-size: 50px;
+    margin: 0;
+}
+
+.medical-history.text1 > p {
+    font-family: robotoregular;
+    font-size: 45px;
+    padding: 15px 0 0;
+}
+
+.about-me.sbt2 {
+    padding: 30px 20px;
+}
+.detail-heading.sbt2 {
+    padding: 0 20px;
+}
+
+.col-cnt{
+	padding:0 20px;}
+	
+	.col-cnt .label-plus-select241 > select {
+    color: #019096;
+}
+
+			.note h3 {
+    font-family: robotomedium;}
+	
+	.apppointment .blue{
+		 font-family: robotomedium;
+		}
+		
+		.apppointment > h5{
+		 font-family: robotomedium;			
+			}
+			
+			
+			.appoint-make .make-appointment-row > label {
+		 padding: 15px 0 5px;
+    text-align: left;
+}
+
+.appoint-make .make-appointment-row {
+    margin: 0;
+	padding:0 20px;
+}
+
+.appoint-make {
+    float: left;
+    padding: 45px 0 0;
+    width: 100%;
+}
+
+.appoint-make .copyright {
+    margin-top: 0;
+}
+
+.appoint-make .slider-date select {
+    color: #777;
+}
+
+.slider-date.black21 > select {
+    color: #000;
+}
+
+.appoint-make .slider-date select {
+    margin-left: 0;
+    width: 33%;
+}
+
+.spacer-68{
+	height:68px;
+	width:100%;
+	float:left;}
+	
+	.details-pateint2 .right-part-doctor > span {
+    border: medium none;
+}
+
+.details-pateint2 .right-part-doctor > h3 {
+    border: medium none;
+}
+
+.details-pateint2 .right-part-doctor {
+    padding-top: 20px;
+}
+
+.detail-part3 {
+    float: left;
+    margin: 0px 0 0;
+
+    width: auto;
+}
+.medical-history span {
+    font-family: robotomedium;
+}
+.details-pateint2 .profile-section {
+    padding: 0;
+}
+
+.medical-history > p {
+    padding: 15px 0 0;
+	font-size:45px;
+}
+
+.details-pateint2 {
+    padding: 40px 20px;
+}
+
+.top-profile .right-part-doctor > span {
+    line-height: 70px;
+}
+
+.container125 .make-appointment-row {
+    margin: 0;
+    padding: 0;
+}
+
+.container125 .make-appointment-row > label {
+    text-align: left;
+}
+.container125 .blue {
+    padding-left: 0;
+}
+
+.container125 .blue {
+    color: #252525;
+    font-size: 50px;
+    padding-left: 0;
+}
+
+.container125 .label-plus-select982 > select {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../images/arrow-down.png");
+    background-origin: padding-box;
+    background-position: right center;
+    background-repeat: no-repeat;
+    border-bottom: medium none;
+    color: #019096;
+    font-size: 50px;
+    padding: 0 30px;
+}
+ /*.new-select
+ {
+ width:20px;
+ float:left
+ height:15px;
+ background-size:100%;
+ background:url("../images/arrow-down.png") right center no-repeat;
+ }*/
+.price-data
+{
+width:100%;
+float:left;
+}
+ .price-data select
+ {
+ width:65%;
+ float:left;
+
+ }
+.container125 .label-plus-select > select {
+	font-size:55px;
+	
+    text-align: left;
+}
+.container125 .make-appointment-row > label {
+    padding-bottom: 0;
+}
+
+.container125 .make-appointment-row > select {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-down.png") no-repeat scroll right center;
+    font-size: 50px;
+    text-align: left;
+}
+
+.container125 {
+    padding: 0 20px;
+}
+.make-appointment-row.length {
+    padding: 20px 0;
+}
+
+.submission .detail-heading{
+	text-align:center;}
+	
+	.login-row-border {
+ 
+    padding: 0 10px 10px;
+
+}
+/*Current Status class end here*/
+.black1
+{
+    float: right;
+    font-size: 24px;
+    margin: 0;
+    padding-right: 30px;
+    list-style:none;
+}
+.loading-page {
+	height: 100px;
+	top: 50%;
+	position: absolute;
+	margin-top: -50px;
+	left: 50%;
+	margin-left: -30px;
+}
+.loading-page p {
+	font-size: 16px;
+	text-align: center;
+}
+.full-new, .full-three
+{
+width:100%; margin-bottom:2px; float:left;
+}
+.full-new select{width:100% !important;text-align:right !important;}
+.full-three select{
+width:31.5% !important;
+float:left;
+}
+.full-three select:nth-child(2)
+{
+width:35.5% !important;
+}
+.full-three select:nth-child(3)
+{
+width:32.5% !important;
+}
+
+.arrow42{
+      float: right;
+
+    margin: 0px 0px 0px;
+
+}
+
+#getday {
+    float: left;
+    width: 100%;
+    padding:0px 0px 0px 0px !important;
+}
+.lbl
+{
+ color: #000; font: 14px "robotomedium"; text-transform: uppercase;padding-top:0px;
+}
+.login-row label { color: #000; float: left; font-family: "robotomedium"; font-size: 14px; font-weight: normal; margin: 0; width: 100%; text-align:left; }
+
+.rcorners1 {
+    position: relative;
+    border-radius: 200px;
+    border:2px solid #019096;
+    background: url("../images/dp.png");
+    width: 202px;
+    height: 202px;
+    left: 25%;
+       right: 25%;
+}
+.main2{
+width:100%
+}
+.upd_img
+{
+        width:20%;
+        background: url("../images/upload.png") no-repeat;
+        width: 15px;
+        height: 15px;
+}
